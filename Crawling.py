@@ -6,10 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 from bs4 import BeautifulSoup
 import pandas as pd
-#import glob
-#import os
-
-
 
 
 
@@ -45,28 +41,23 @@ def make_driver():
 driver = make_driver()
 driver.get('https://coincodex.com/')
 
-driver.find_element_by_link_text()
-driver.find_element_by_partial_link_text
-driver.find_elements_by_link_text
-driver.find_elements_by_partial_link_text
-driver.find_element_by_p
-driver.find_e
 # login 수행
 driver.find_element_by_xpath('//*[@id="navbar"]/div[1]/header-user/div/ul/li[6]/span').click() #Signin 버튼 클릭
 driver.find_element_by_xpath('/html/body/ngb-modal-window/div/div/ngbd-modal-content/div/div[2]/form/input[1]').send_keys('bobai')
 driver.find_element_by_xpath('/html/body/ngb-modal-window/div/div/ngbd-modal-content/div/div[2]/form/input[2]').send_keys('bobai_pw')
 driver.find_element_by_xpath('/html/body/ngb-modal-window/div/div/ngbd-modal-content/div/div[2]/form/button').click()
 #driver.find_element_by_class_name('modal-content').find_element_by_tag_name('button').click()
-driver.find_element_by_
+
+
+#find_element_by_id()
+element = driver.find_element_by_id("mobile_search_input").click()
+
 #find_element_by_class_name()
 element = driver.find_element_by_class_name('ticker') #일치하는 클래스가 여러개면 가장 첫번째 element
-element.text
-driver.find
 elements = driver.find_elements_by_class_name('ticker') #elements 는 리스트.
 for element in elements:
     print(element.text)
 
-driver.find_element_by_css_selector('#table-container').text
 #find_element_by_tag_name()
 li = driver.find_element_by_tag_name('li')
 li.text
@@ -74,40 +65,15 @@ lis = driver.find_elements_by_tag_name('li')
 for li in lis:
     print(li.text)
 
-
-driver.find_element_by_name
-
-#href에 text로 표시가 된 경우
-driver.find_element_by_partial_link_text("News").click()
+#find_element_by_link_text
+driver.find_element_by_link_text("News").click()
+driver.find_element_by_partial_link_text("Portfo").text
 
 #게시글 긁어보기 같은 class_name이면 list형태로 반환
 for i in range(100):
     driver.find_elements_by_class_name("ticker")[i].text
     driver.find_elements_by_class_name("full-name")[i].text
 
-#find_element_by
+#find_element_by_css_
+driver.find_element_by_css_selector('#homepage > app-hostspot > div > div > div.hotspot-lists.ng-star-inserted > div:nth-child(2) > div.hotspot-list-header > span').text
 
-driver.find_element_by_class_name("")
-driver.find_element_by_link_text("News").click()
-driver.find_element_by_xpath("//*[@id=\"navbar\"]/div[1]/header-user/div/ul/li[6]").click()
-
-menu = driver.find_element_by_class_name("menu")
-menu = driver.find_element_by_id("navbar")
-menu2 =menu.find_element_by_class_name("menu")
-menu2.find_element_by_partial_link_text("News")
-driver.find_element_by_partial_link_text
-menu.find_element_by_class_name('ng-tns-c4-0')
-i=1
-test1 = "test list"
-lll = 'test{}'.format(test1)
-
-str1 = """
-    data = 'test',
-    id ={%s}
-""".format(lll)
-
-
-test1 = "test list"
-driver = make_driver()
-driver.get('https://www.naver.com')
-time.sleep(5)
