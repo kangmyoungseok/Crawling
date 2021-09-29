@@ -69,11 +69,11 @@ for li in lis:
 driver.find_element_by_link_text("News").click()
 driver.find_element_by_partial_link_text("Portfo").text
 
-#게시글 긁어보기 같은 class_name이면 list형태로 반환
+# 응용 : 게시글 긁어보기 같은 class_name이면 list형태로 반환
 for i in range(100):
     driver.find_elements_by_class_name("ticker")[i].text
     driver.find_elements_by_class_name("full-name")[i].text
 
-#find_element_by_css_
+#find_element_by_css_selector()
 driver.find_element_by_css_selector('#homepage > app-hostspot > div > div > div.hotspot-lists.ng-star-inserted > div:nth-child(2) > div.hotspot-list-header > span').text
 
