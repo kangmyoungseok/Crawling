@@ -44,7 +44,6 @@ driver = make_driver()
 driver.get('https://defiyield.app/rekt-database')
 
 
-
 for i in range(1,201):
 #    data= {}
     name = driver.find_element_by_xpath('//*[@id="pushable"]/div/main/section/div[4]/div[2]/div[{}]/div/div[1]/a'.format(i))
