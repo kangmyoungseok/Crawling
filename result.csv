@@ -1,0 +1,2589 @@
+,name,function,chain,date
+0,Poly Network,Exploit,ETH,10.08.2021
+1,Boy X Highspeed,Exploit,BSC,30.10.2021
+2,Cream Finance,Flash loan,ETH,27.10.2021
+3,Compound Labs,Exploit,ETH,26.11.2020
+4,Venus,Exploit,BSC,18.05.2021
+5,Compound Labs (2),Exploit,ETH,30.09.2021
+6,AnubisDAO,Exit Scam,ETH,29.10.2021
+7,EasyFi,Exploit,ETH,19.04.2021
+8,Uranium Finance (2),Exploit,BSC,28.04.2021
+9,TheDAO,Exploit,ETH,17.06.2016
+10,bZx (4),Access control,"BSC
++ 1",05.11.2021
+11,PancakeBunny,Flash loan,BSC,19.05.2021
+12,Alpha Finance Lab,Flash loan,ETH,13.02.2021
+13,Vee Finance,Exploit,AVAX,21.09.2021
+14,Meerkat Finance,Exit Scam,BSC,04.03.2021
+15,Spartan Protocol,Flash loan,BSC,02.05.2021
+16,Paid Network (old),Exploit,ETH,05.03.2021
+17,StableMagnet,Exit Scam,BSC,23.06.2021
+18,Lendf.Me,Exploit,ETH,19.04.2020
+19,xToken,Flash loan,ETH,12.05.2021
+20,Harvest Finance,Flash loan,ETH,26.10.2020
+21,Bancor,Exploit,ETH,09.07.2018
+22,Popsicle Finance,Exploit,ETH,03.08.2021
+23,Yfdex.Finance,Exit Scam,ETH,09.09.2020
+24,Pickle Finance,Exploit,ETH,21.11.2020
+25,Cream Finance,Exploit,ETH,31.08.2021
+26,Squid Game,Exit Scam,BSC,01.11.2021
+27,Indexed Finance,Exploit,ETH,14.10.2021
+28,Rari Capital,Flash loan,ETH,08.05.2021
+29,Eminence Finance,Flash loan,ETH,29.09.2020
+30,FURUCOMBO,Exploit,ETH,01.03.2021
+31,pNetwork,Exploit,BSC,19.09.2021
+32,Compounder Finance,Exit Scam,ETH,01.12.2020
+33,yearn.finance,Flash loan,ETH,05.02.2021
+34,bEarn Fi,Flash loan,BSC,16.05.2021
+35,Value DeFi (3),Exploit,ETH,07.05.2021
+36,SharkTron,Exit Scam,TRON,28.10.2020
+37,Value DeFi (2),Exploit,ETH,05.05.2021
+38,Cover Protocol,Exploit,ETH,28.12.2020
+39,Punk Protocol,Exploit,BSC,10.08.2021
+40,bZx (3),Exploit,ETH,13.09.2020
+41,Origin Protocol,Flash loan,ETH,17.11.2020
+42,THORChain (2),Exploit,ETH,22.07.2021
+43,Warp Finance,Flash loan,ETH,18.12.2020
+44,BurgerSwap,Flash loan,BSC,29.05.2021
+45,Value DeFi,Flash loan,ETH,14.11.2020
+46,DAO Maker,Exploit,ETH,12.08.2021
+47,Luna Yield,Exit Scam,SOLANA,20.08.2021
+48,Belt Finance,Flash loan,BSC,29.05.2021
+49,XSURGE,Flash loan,BSC,16.08.2021
+50,xToken (2),Flash loan,ETH,29.08.2021
+51,ChainSwap (2),Exploit,ETH,11.07.2021
+52,THORChain,Exploit,ETH,15.07.2021
+53,DAO Maker (2),Exploit,ETH,04.09.2021
+54,DODO,Exploit,ETH,09.03.2021
+55,Bogged Finance,Flash loan,BSC,22.05.2021
+56,Maze Protocol,Exploit,BSC,11.08.2021
+57,Cheese Bank,Flash loan,ETH,06.11.2020
+58,HoneySwap.Fi,Exit Scam,BSC,28.02.2021
+59,Zabu Finance,Exploit,AVAX,12.09.2021
+60,Vesper Finance,Exploit,ETH,02.11.2021
+61,SushiSwap,Exploit,ETH,16.09.2021
+62,Wallstreetswap Finance,Exit Scam,BSC,15.02.2021
+63,Emerald Mine,Exit Scam,EOS,09.09.2020
+64,PancakeBunny,Flash loan,POLYGON,16.07.2021
+65,Turtledex,Exit Scam,BSC,16.03.2021
+66,PopcornSwap,Exit Scam,BSC,28.01.2021
+67,Deriswap (the 1st fake),Exit Scam,ETH,23.11.2020
+68,AFKSystems Finance,Exit Scam,POLYGON,10.09.2021
+69,Akropolis,Flash loan,ETH,12.11.2020
+70,AutoSharkFinance (2),Exploit,BSC,29.10.2021
+71,PancakeHunny (2),Exploit,BSC,20.10.2021
+72,Percent Finance,Exploit,ETH,04.11.2020
+73,BT.Finance,Flash loan,ETH,08.02.2021
+74,Levyathan,Exploit,BSC,30.07.2021
+75,GROWTH DeFi,Exit Scam,ETH,08.02.2021
+76,Uranium Finance,Exploit,BSC,08.04.2021
+77,LaserSwap Cash,Exit Scam,BSC,15.03.2021
+78,Ethereum Yield,Abandoned,ETH,11.02.2021
+79,ApeRocket (2),Flash loan,POLYGON,14.07.2021
+80,BitBot,Exit Scam,ETH,20.02.2021
+81,ChainSwap,Exploit,ETH,02.07.2021
+82,Wault Finance,Flash loan,BSC,04.08.2021
+83,AutoSharkFinance,Flash loan,BSC,24.05.2021
+84,Yam DAO,Exploit,ETH,13.08.2020
+85,UniCat.farm,Exit Scam,ETH,24.09.2020
+86,Merlin Labs,Exploit,BSC,26.05.2021
+87,bZx (2),Flash loan,ETH,18.02.2020
+88,Impossible Finance,Flash loan,BSC,21.06.2021
+89,Merlin Labs (2),Exploit,BSC,27.05.2021
+90,Kper Network,Exit Scam,ETH,31.10.2020
+91,Balancer Labs,Flash loan,ETH,28.06.2020
+92,Union Capital,Exit Scam,ETH,10.02.2021
+93,Stable Yield Credit,Honeypot,ETH,05.01.2021
+94,Pump Farm,Exit Scam,ETH,12.11.2020
+95,Xdef finance,Exit Scam,ETH,05.01.2021
+96,Pills for Sale (Fake),Honeypot,ETH,17.01.2021
+97,Leverage X,Exit Scam,ETH,25.02.2021
+98,DEFIBase,Exit Scam,ETH,11.12.2020
+99,opyn,Exploit,ETH,04.08.2020
+100,Hype Bet Finance,Exit Scam,ETH,30.11.2020
+101,bZx,Flash loan,ETH,15.02.2020
+102,LV Finance,Exit Scam,ETH,19.09.2020
+103,Merlin Labs (3),Exploit,BSC,29.06.2021
+104,PolBase Cash,Exit Scam,ETH,07.01.2021
+105,Cake Lock,Exit Scam,BSC,01.03.2021
+106,Rbase Finance,Exit Scam,ETH,21.01.2021
+107,Glide Finance,Exploit,,17.10.2021
+108,FASTSWAP,Exploit,BSC,14.08.2021
+109,Tomatos,Exit Scam,ETH,24.09.2020
+110,Soft Yearn Finance,Exploit,ETH,03.09.2020
+111,SynLev,Exit Scam,ETH,13.03.2021
+112,ApeRocket,Flash loan,BSC,14.07.2021
+113,PolyYeld Finance,Exploit,POLYGON,28.07.2021
+114,Safe Dollar (2),Exploit,POLYGON,28.06.2021
+115,POKeFARM,Exit Scam,ETH,13.11.2020
+116,Shadetech,Exit Scam,ETH,17.03.2021
+117,Tetris Finance,Exit Scam,BSC,17.12.2020
+118,Cubic Finance,Exit Scam,ETH,15.01.2021
+119,Bep Finance,Exit Scam,BSC,16.03.2021
+120,Elastic Staking,Exit Scam,ETH,26.01.2021
+121,Sifchain Finance,Honeypot,ETH,06.01.2021
+122,Santa DAO,Exit Scam,ETH,26.10.2020
+123,PineconeFinance,Exploit,BSC,18.08.2021
+124,DistX,Exit Scam,ETH,14.12.2020
+125,Magix,Exit Scam,ETH,25.12.2020
+126,Astronaut NFT,Exit Scam,BSC,08.02.2021
+127,Cover protocol (fake),Exit Scam,ETH,27.11.2020
+128,Casper DeFi,Exploit,FANTOM,04.08.2021
+129,KeeperDAO (fake),Honeypot,ETH,07.11.2020
+130,Iron Finance,Exploit,BSC,16.03.2020
+131,Walletreum,Exit Scam,ETH,15.11.2020
+132,Tin Finance,Exit Scam,BSC,30.01.2021
+133,Bancor (2),Exploit,ETH,18.06.2020
+134,YFFS Finance,Exit Scam,ETH,11.12.2020
+135,XYearn,Exit Scam,ETH,19.10.2020
+136,MoltenSwap,Exit Scam,BSC,07.03.2021
+137,Chessfarm.Tech,Exit Scam,BSC,11.11.2020
+138,PancakeHunny,Exploit,BSC,03.06.2021
+139,Dark Matter,Exit Scam,ETH,30.12.2020
+140,Vice.Uno,Exit Scam,BSC,27.10.2020
+141,INFI Governance and Utility Token,Exit Scam,ETH,26.01.2021
+142,YZY DAO,Exit Scam,ETH,23.04.2021
+143,Yearn Machine Learning,Exit Scam,ETH,21.01.2021
+144,Aphrodite Protocol,Exit Scam,ETH,29.01.2021
+145,Safe Dollar,Exploit,POLYGON,20.06.2021
+146,Nifity,Exit Scam,ETH,22.01.2021
+147,Dividend Token,Exit Scam,ETH,24.11.2020
+148,CBDAO,Exit Scam,ETH,09.10.2020
+149,NeedForSpeed Finance,Exit Scam,ETH,27.04.2021
+150,OracleSwapToken,Honeypot,ETH,08.02.2021
+151,Star Swap,Exit Scam,ETH,06.11.2020
+152,Sakura DeFi,Exit Scam,ETH,14.02.2021
+153,Bio Farm,Exit Scam,ETH,13.01.2021
+154,Exvault Finance,Exit Scam,ETH,25.10.2020
+155,YFFC,Exit Scam,ETH,06.11.2020
+156,Solid Protocol,Exit Scam,ETH,19.12.2020
+157,UniTarget,Exit Scam,ETH,25.12.2020
+158,SLM Token,Honeypot,ETH,17.01.2021
+159,Kosta Finance,Exit Scam,ETH,24.11.2020
+160,YFDash,Exit Scam,ETH,14.12.2020
+161,K33pr,Exit Scam,ETH,30.11.2020
+162,Rise Protocol,Exit Scam,ETH,11.03.2021
+163,RIFT Token,Exit Scam,ETH,31.12.2020
+164,Poz finance,Exit Scam,BSC,22.01.2021
+165,Hegic,Exploit,ETH,24.04.2020
+166,Rapid Set Dollar,Exit Scam,ETH,26.12.2020
+167,Prophet Project,Exit Scam,ETH,18.12.2020
+168,Liquid Core,Exit Scam,ETH,29.10.2020
+169,iProtocol,Exit Scam,ETH,21.12.2020
+170,Galaxy DeFi,Honeypot,ETH,12.01.2021
+171,Mars Farm,Exit Scam,BSC,04.03.2021
+172,Orbit Swap,Exit Scam,BSC,08.02.2021
+173,Solv3 network,Exit Scam,ETH,02.12.2020
+174,Hype Bet,Exit Scam,ETH,29.11.2020
+175,OKO TOKEN,Honeypot,ETH,07.12.2020
+176,Holy Trinity,Exit Scam,ETH,18.01.2021
+177,Yearnspace,Exit Scam,ETH,01.12.2020
+178,MinterPro,Exit Scam,BSC,09.01.2021
+179,MTI Finance,Exit Scam,ETH,19.11.2020
+180,AutoTrade Finance,Honeypot,ETH,10.12.2020
+181,Nemo Finance,Honeypot,ETH,26.10.2020
+182,Reaper Finance,Exit Scam,ETH,07.12.2020
+183,Apollo Swap,Honeypot,ETH,06.12.2020
+184,NONAME,Exit Scam,ETH,15.02.2021
+185,WOLF Protocol,Exit Scam,ETH,23.01.2021
+186,Unidark,Exit Scam,ETH,08.10.2020
+187,DiceSwap,Exit Scam,BSC,10.03.2021
+188,Dragonswap,Exit Scam,BSC,16.03.2021
+189,DARK DEFI,Honeypot,ETH,21.02.2021
+190,Bondly Finance (FAKE),Honeypot,ETH,08.12.2020
+191,Zenith Finance,Exit Scam,ETH,28.11.2020
+192,WinPlay,Exit Scam,ETH,17.09.2020
+193,TIM3,Exit Scam,ETH,23.11.2020
+194,Horizon Finance,Exit Scam,BSC,18.03.2021
+195,RUL3R Token,Exit Scam,ETH,27.11.2020
+196,NarutoSwap,Exit Scam,BSC,19.03.2021
+197,Static,Exit Scam,ETH,30.04.2021
+198,Pacific Protocol,Exit Scam,ETH,01.01.2021
+199,NanoCore,Abandoned,ETH,30.10.2020
+200,Game Swap Exchange,Exit Scam,ETH,24.01.2021
+201,Boost,Exit Scam,ETH,26.12.2020
+202,Zap Finance,Exit Scam,BSC,30.01.2021
+203,CoinSWOP,Exit Scam,ETH,04.12.2020
+204,Rubick Finance,Exit Scam,ETH,20.11.2020
+205,CatDog,Exit Scam,ETH,01.02.2021
+206,KoiSwap,Exit Scam,BSC,09.03.2021
+207,Thunder Finance,Exit Scam,BSC,04.03.2021
+208,MiniVault.Finance,Exit Scam,ETH,26.11.2020
+209,Dipex,Exit Scam,ETH,09.01.2021
+210,Bank Protocol,Exit Scam,ETH,23.12.2020
+211,Yearn Hold Finance,Honeypot,ETH,09.12.2020
+212,True Seigniorage Dollar,Exit Scam,ETH,12.03.2021
+213,Foxi.finance,,ETH,17.11.2020
+214,Slicer Finance,Exit Scam,ETH,01.01.2021
+215,Twerk Finance,Exit Scam,ETH,03.12.2020
+216,Hypechill fund,Exit Scam,ETH,27.11.2020
+217,Tranquility Defi,Exit Scam,ETH,08.02.2021
+218,ChaddyFinance,Exit Scam,BSC,07.03.2021
+219,RFbtc,Exit Scam,ETH,11.04.2021
+220,Fractal Defi,Exit Scam,ETH,16.01.2021
+221,D4ppdao Token,Exit Scam,ETH,06.01.2021
+222,PulldogSwap,Honeypot,BSC,16.03.2021
+223,SAV3R,Exit Scam,ETH,17.11.2020
+224,Bing Swap,Exit Scam,BSC,03.04.2021
+225,SuperMarioBros,Exit Scam,ETH,23.10.2020
+226,Focus,Exit Scam,ETH,28.02.2021
+227,Mantle,Exit Scam,ETH,21.03.2021
+228,Vadia Finance,Exit Scam,ETH,08.12.2020
+229,Reflation,Exit Scam,ETH,14.12.2020
+230,Mocha Set Dollar,Exit Scam,ETH,03.01.2021
+231,Brother finance,Honeypot,ETH,08.12.2020
+232,Relay3rV1,Exit Scam,ETH,11.11.2020
+233,CYBER SOLIDITY,Exit Scam,ETH,14.11.2020
+234,Metropolis.finance,Exit Scam,ETH,25.12.2020
+235,K.O.N.G Token,Exit Scam,ETH,01.12.2020
+236,Ren Swap,Honeypot,ETH,09.12.2020
+237,Rfyield Finance,Exit Scam,ETH,02.02.2021
+238,CHERRY,Honeypot,ETH,28.11.2020
+239,ELLA,Exit Scam,ETH,24.11.2020
+240,Ohohoh.io,Exit Scam,ETH,05.01.2021
+241,Douyea,Honeypot,ETH,13.12.2020
+242,UnlimitedBase Finance,Exit Scam,ETH,15.12.2020
+243,Foxy.farm,Exit Scam,ETH,20.10.2020
+244,Harvester Network,Honeypot,ETH,23.12.2020
+245,CREW,Exit Scam,ETH,12.12.2020
+246,dxHub,Exit Scam,ETH,13.12.2020
+247,Rotex,Exit Scam,ETH,21.11.2020
+248,Jointventure Finance,Exit Scam,ETH,13.01.2021
+249,ShabuVault,,ETH,04.11.2020
+250,Overbase Finance,Exit Scam,ETH,18.12.2020
+251,FutureBase.Finance,Exit Scam,ETH,22.12.2020
+252,PUMP,Exit Scam,ETH,05.01.2021
+253,Groot.finance,Exit Scam,ETH,02.11.2020
+254,GrowBase Finance,Exit Scam,ETH,31.12.2020
+255,Monster Chain,Honeypot,ETH,22.10.2020
+256,Binary Protocol,Exit Scam,ETH,29.01.2021
+257,Contribute Protocol,Exit Scam,ETH,10.03.2021
+258,Delicacy DeFi,Exit Scam,BSC,03.06.2021
+259,iBLUE,Exit Scam,ETH,06.01.2021
+260,Reflect3 Finance,Exit Scam,ETH,28.01.2021
+261,Deriswap (the 2nd fake),Exit Scam,ETH,17.12.2020
+262,TRBAS3,Exit Scam,ETH,14.12.2020
+263,Lootx Finance,Honeypot,ETH,25.10.2020
+264,EASYPump,Honeypot,ETH,11.01.2021
+265,Vegetables Finance,Exit Scam,ETH,05.10.2020
+266,burn12,Exit Scam,ETH,01.01.2021
+267,K3psav.Finance,Exit Scam,ETH,19.12.2020
+268,x20 finance,,ETH,17.11.2020
+269,Keep3r.info,Honeypot,ETH,08.12.2020
+270,House of paper,Honeypot,ETH,12.11.2020
+271,Devilishburning Farm,Exit Scam,ETH,06.11.2020
+272,Gh1z.finance,Exit Scam,ETH,24.11.2020
+273,Sauron,Honeypot,ETH,09.12.2020
+274,Keep3rX.finance,Exit Scam,ETH,05.11.2020
+275,Mother of All Ponzis,Exit Scam,ETH,23.12.2020
+276,L4CK,Exit Scam,ETH,26.12.2020
+277,Bloody Finance,Exit Scam,ETH,05.11.2020
+278,Ba5ic finance,Exit Scam,ETH,02.12.2020
+279,Horus Finance,Honeypot,ETH,31.10.2020
+280,Maxliq.ml,Exit Scam,ETH,25.11.2020
+281,Farmland Network,Exit Scam,ETH,07.12.2020
+282,Sonic Swap,Exit Scam,ETH,21.12.2020
+283,Trump Swap,Honeypot,ETH,24.10.2020
+284,Enjo,Exit Scam,ETH,28.11.2020
+285,CAP5,Exit Scam,ETH,08.11.2020
+286,Gaia protocol,Exit Scam,ETH,07.12.2020
+287,Potatos Finance,Exit Scam,BSC,17.12.2020
+288,Waronrug degen token,Exit Scam,ETH,05.12.2020
+289,SAILSAN,Exit Scam,ETH,10.11.2020
+290,GoldenFarm,Exit Scam,BSC,07.12.2020
+291,BOMBHEAD token,Honeypot,ETH,24.10.2020
+292,Dswap,Exit Scam,ETH,10.11.2020
+293,Jin Finance,Honeypot,ETH,07.12.2020
+294,Waffle Finance,,BSC,05.02.2021
+295,Hyft finance,,BSC,08.02.2021
+296,Spark,Honeypot,ETH,
+297,HotDew Token,Abandoned,ETH,
+298,Darkwebcoin,,ETH,13.11.2020
+299,Citadeli,,ETH,
+300,PenguinCoin,,ETH,
+301,Paypal,,ETH,
+302,Kanva,,ETH,
+303,Mariofarm Finance,,ETH,
+304,BURN ONE TOKEN,,ETH,
+305,Transformers Finance,,ETH,
+306,KoalaRise,Honeypot,BSC,
+307,EverTiki,Honeypot,BSC,
+308,DogeBoo,Honeypot,BSC,
+309,FLOKI DOWN,Honeypot,BSC,
+310,Trace Network,Honeypot,BSC,
+311,RCums,Honeypot,BSC,
+312,Foxography,Honeypot,BSC,
+313,SafeSolarStar,Honeypot,BSC,
+314,CocoBee,Honeypot,BSC,
+315,CFInu,Honeypot,BSC,
+316,OCTOPIX,Honeypot,BSC,
+317,MIAU,Honeypot,BSC,
+318,LOVELY SHIBA,Honeypot,BSC,
+319,EverRise Token,Honeypot,BSC,
+320,SuperSushi,Honeypot,BSC,
+321,VOLCANOS,Honeypot,BSC,
+322,RASIM OZAN,Honeypot,BSC,
+323,SafeDoge,Honeypot,BSC,
+324,SoftdrinkSwap,Abandoned,BSC,12.11.2020
+325,Portal io,Honeypot,BSC,
+326,FLOUR FINANCIAL,Honeypot,BSC,
+327,DogeTeen,Honeypot,BSC,
+328,unirocket,Honeypot,BSC,
+329,ALLSTARDOGE,Honeypot,BSC,
+330,SHARKMOON,Honeypot,BSC,
+331,Sonar,Honeypot,BSC,
+332,Wolfy,Honeypot,BSC,
+333,AnimalHouse Finance,Honeypot,BSC,
+334,ChildDoge,Honeypot,BSC,
+335,Olympus,Honeypot,BSC,
+336,Astrokitties,Honeypot,BSC,
+337,Cresco,Honeypot,BSC,
+338,ShibaElonMars,Honeypot,BSC,
+339,Papito,Honeypot,BSC,
+340,Pill Finance,,BSC,
+341,DogeLord,Honeypot,BSC,
+342,PepeRise,Honeypot,BSC,
+343,MoneyWulf,Honeypot,BSC,
+344,Shiba Inu Bone,Honeypot,ETH,
+345,Generate Finance,,BSC,
+346,RAICHU TOKEN | raichutoken.com,Honeypot,ETH,
+347,Chad Token,Honeypot,BSC,08.03.2021
+348,OniChan,Honeypot,ETH,
+349,BoobsFinance,,BSC,
+350,2Crazy,Honeypot,ETH,
+351,OgreSwap,,BSC,12.03.2021
+352,TIKI,Honeypot,BSC,
+353,Chef Swap,,BSC,12.03.2021
+354,OnlyFanGirls,Honeypot,BSC,
+355,Crocoswap finance,,BSC,14.03.2021
+356,Player 2,Honeypot,BSC,
+357,AmpChain,Honeypot,ETH,
+358,MoonSquad,Honeypot,BSC,
+359,PulseChain,Honeypot,ETH,
+360,MoonRise,Honeypot,BSC,
+361,CSHIBA,Honeypot,ETH,
+362,Pera Finance,Honeypot,BSC,
+363,Knight,Honeypot,BSC,
+364,Platinum Coin,Honeypot,BSC,
+365,VitaDAO.com,Honeypot,ETH,
+366,Burn,Honeypot,BSC,
+367,HEXICO,Honeypot,ETH,
+368,PabloEscobarFi,,BSC,10.03.2021
+369,SuperSonicShiba,Honeypot,BSC,
+370,MoonRabit,Honeypot,BSC,
+371,UglyInu,Honeypot,BSC,
+372,WD,Honeypot,BSC,
+373,VikingSwap,Abandoned,BSC,07.03.2021
+374,PolyTools,Honeypot,POLYGON,
+375,Cezo,,ETH,
+376,ZUMBA MARS,Honeypot,BSC,
+377,plex,Honeypot,ETH,
+378,Exorthous Finance,Exit Scam,ETH,
+379,WhaleSwap,Abandoned,BSC,
+380,Ultimate Set Dollar,Exit Scam,ETH,02.01.2021
+381,Inertia Money,Abandoned,ETH,14.01.2021
+382,SAD2Token,Abandoned,ETH,05.12.2020
+383,Decentralized Privacy,Exit Scam,ETH,22.12.2020
+384,W3RLD,,ETH,
+385,GALIL,Exit Scam,ETH,10.11.2020
+386,Microbit,,ETH,
+387,Vaultz Defi,,ETH,
+388,KumQuat,Exit Scam,BSC,
+389,Tree Finance,Abandoned,ETH,12.12.2020
+390,Compasswap Token,Exit Scam,BSC,21.11.2020
+391,Kanva (fake),Exit Scam,ETH,
+392,SoSo token,,ETH,
+393,Dolphin Token,Exit Scam,ETH,
+394,Dasis Cash,Abandoned,ETH,10.01.2021
+395,Xdef finance (relaunch),Exit Scam,ETH,
+396,Beer Garden,Abandoned,BSC,21.10.2020
+397,Link Based,Abandoned,ETH,16.01.2021
+398,Exbase Finance,Exit Scam,ETH,
+399,Asteroid Pump,Honeypot,ETH,
+400,Dogeta Inu,Honeypot,ETH,
+401,ALPHA WOLF,Honeypot,ETH,
+402,MS,Honeypot,BSC,
+403,NFTDragonBall,Honeypot,BSC,
+404,SHINYSHIBA,Honeypot,BSC,
+405,Bob`s repair,Exit Scam,ETH,
+406,Pizza finance,Exit Scam,ETH,
+407,Matcha,Exit Scam,ETH,
+408,MoonkeyKong,Honeypot,BSC,
+409,Defi For Inu,Honeypot,ETH,
+410,BlackPool,Honeypot,ETH,
+411,Bunny Token,Exit Scam,BSC,
+412,GasPay,Honeypot,BSC,
+413,Galaxy,Honeypot,BSC,
+414,Musk Inu,Exit Scam,ETH,
+415,PORNHUB,Honeypot,BSC,
+416,AMAZON,Honeypot,BSC,
+417,GateFinance,Honeypot,ETH,
+418,Pizza Coin,Exit Scam,ETH,
+419,BullMoon,Honeypot,ETH,
+420,JeffBezos,Honeypot,BSC,
+421,CERBERUS,Honeypot,BSC,
+422,Hanzo inu,Honeypot,BSC,
+423,EPIC TRACTOR,Honeypot,BSC,
+424,Ukawa Inu,Exit Scam,ETH,
+425,FUTURE,Honeypot,ETH,
+426,WhiteNova,Honeypot,BSC,
+427,Enlighten,Honeypot,BSC,
+428,DogeFinance,Exit Scam,ETH,
+429,ACID RAIN,Honeypot,BSC,
+430,Biohazard,Honeypot,BSC,
+431,SPACE GEM,Honeypot,BSC,
+432,Chow Inu,Honeypot,ETH,
+433,KimJongMoon,Honeypot,BSC,
+434,The Doge Space X,Honeypot,ETH,
+435,PolkaRare,Honeypot,ETH,
+436,LODE Finance,Honeypot,ETH,
+437,TrustPad,Honeypot,ETH,
+438,MoonSquirrel,Honeypot,BSC,
+439,Space Inu,Exit Scam,ETH,
+440,Captain,Honeypot,BSC,
+441,Polylastic,Honeypot,ETH,
+442,Splashdown Of Dragon,Honeypot,ETH,
+443,The Dragon Godfather,Honeypot,ETH,
+444,SafeAurora,Honeypot,BSC,
+445,gamee.com,Honeypot,ETH,
+446,ElonFrog,Honeypot,BSC,
+447,rock solid Vaults,Honeypot,BSC,
+448,CoreSwap.finance,Honeypot,ETH,
+449,RAZE Network,Honeypot,ETH,
+450,Cere Network,Honeypot,ETH,
+451,1Million,Honeypot,BSC,
+452,DeFi Wonderland,Honeypot,ETH,
+453,Safe-Me Finance,Honeypot,BSC,
+454,Hex-Mex,Honeypot,ETH,
+455,Neptun,Honeypot,BSC,
+456,BitClave,,ETH,
+457,Saiba Neko,Honeypot,BSC,
+458,GoldenDoge,Honeypot,BSC,
+459,Human Protocol,Honeypot,BSC,
+460,Defi Land,Honeypot,ETH,
+461,BitSpawn Token,Honeypot,ETH,
+462,BitDao,Honeypot,ETH,
+463,Binance-Peg Polygon,Honeypot,BSC,
+464,CosmoKitty,Honeypot,BSC,
+465,CatRocket,Honeypot,ETH,
+466,MoonMiner,Honeypot,BSC,
+467,GoldenShiba,Honeypot,BSC,
+468,DRAGON INU,Honeypot,BSC,
+469,AstroDoge,Honeypot,BSC,
+470,Oyster,,ETH,
+471,FLiK,,ETH,
+472,ICOS,,ETH,
+473,EverLife,Honeypot,BSC,
+474,DOGEMASK,Honeypot,BSC,
+475,ISTARDUST,Honeypot,ETH,
+476,Instadapp,Honeypot,ETH,
+477,LordShiba,Honeypot,BSC,
+478,ANT1GOON,Exit Scam,ETH,
+479,Wealthfront,Exit Scam,ETH,
+480,ICONFoundation,Exit Scam,BSC,
+481,CoinCoin,Exit Scam,BSC,
+482,Gigachad Kishu,Honeypot,ETH,
+483,SmartChainScan,Exit Scam,BSC,
+484,DTP,Exit Scam,BSC,
+485,Virus,Exit Scam,BSC,
+486,Karura,Exit Scam,BSC,
+487,Uranus Token,Exit Scam,ETH,
+488,Tierion,Exit Scam,ETH,
+489,Unikoin Gold,Exit Scam,ETH,
+490,Little Mouse,Exit Scam,BSC,
+491,RocketShiba,Honeypot,BSC,
+492,Data Transaction Token,Exit Scam,ETH,
+493,SpaceX Token,Honeypot,BSC,
+494,Fuck Thanos,Exit Scam,ETH,
+495,Nabox,Exit Scam,BSC,
+496,Moonwalk,Exit Scam,BSC,
+497,NOVASHIBA.COM,Exit Scam,BSC,
+498,Goblin Town,Exit Scam,ETH,
+499,Yearn Prometheus,Exit Scam,ETH,
+500,HoDooi,Exit Scam,ETH,
+501,JamTruAdr,Exit Scam,POLYGON,
+502,SALT,Exit Scam,ETH,
+503,JamTruAdr3,Exit Scam,POLYGON,
+504,JamTruAdr2,Exit Scam,POLYGON,
+505,JamTruAdr4,Exit Scam,POLYGON,
+506,PolySnow,Exit Scam,POLYGON,
+507,AL PACINU,Exit Scam,ETH,
+508,Zombie Shiba,Exit Scam,ETH,
+509,SHIBASWAP,Honeypot,ETH,
+510,Yfi.mobi,Exit Scam,ETH,
+511,YUMMYSHIBA,Exit Scam,BSC,
+512,Jejudoge V2,Exit Scam,ETH,
+513,TravelCake,Exit Scam,BSC,
+514,FLUFFYSHIBA,Exit Scam,BSC,
+515,Tuckoo Finance,Exit Scam,BSC,
+516,AirToken,Exit Scam,ETH,
+517,Moonfarm Finance,Exit Scam,ETH,
+518,ASG Token,Exit Scam,BSC,
+519,Faraland,Exit Scam,ETH,
+520,PiggyBank,Exit Scam,BSC,
+521,Gains Farm,Exit Scam,ETH,
+522,Truample,Exit Scam,ETH,
+523,Dropil,Exit Scam,ETH,
+524,Xfinance,Exit Scam,ETH,
+525,IYF.finance,Exit Scam,ETH,
+526,Shopin,Exit Scam,ETH,
+527,HOTDOGSWAP.ORG,Exit Scam,ETH,
+528,Hisho Inu,Exit Scam,ETH,
+529,Paragon,Exit Scam,ETH,
+530,CoomRocket,Exit Scam,ETH,
+531,EthereumSpacex,Exit Scam,ETH,
+532,GamerX,Exit Scam,BSC,
+533,Green Swap,Exit Scam,ETH,
+534,Pluto Rocket Finance,Exit Scam,BSC,
+535,ethereum-ultra.com,Exit Scam,ETH,
+536,Bat Inu,Exit Scam,ETH,
+537,DragonBite,Exit Scam,ETH,
+538,7/20/21,Exit Scam,ETH,
+539,Hypernova,Exit Scam,BSC,
+540,Gitcoin,Exit Scam,BSC,
+541,Hoge Inu,Exit Scam,ETH,
+542,Akashi Inu,Exit Scam,ETH,
+543,Ethelon Finance,Exit Scam,ETH,
+544,MoonDate,Exit Scam,BSC,
+545,Ethereum Cate,Exit Scam,ETH,
+546,Fisa Inu,Exit Scam,ETH,
+547,PugDog Inu,Exit Scam,ETH,
+548,Wrapped Ultra Sound Money,Exit Scam,ETH,
+549,YisusShiba,Exit Scam,BSC,
+550,Supreme Inu,Exit Scam,ETH,
+551,Neo Shiba,Exit Scam,ETH,
+552,Jejudoge V2,Exit Scam,ETH,
+553,GABECOIN,Exit Scam,BSC,
+554,Dino Inu,Exit Scam,ETH,
+555,MilitaryDoge,Exit Scam,BSC,
+556,Volcano Money,Exit Scam,ETH,
+557,Bitboy Inu,Exit Scam,ETH,
+558,Crytocurency.Ai,Exit Scam,ETH,
+559,Goose Inu,Exit Scam,ETH,
+560,Bonu Inu,Exit Scam,ETH,
+561,KingAkita,Honeypot,BSC,
+562,DiamondHands,Exit Scam,BSC,
+563,EthereumMoon,Exit Scam,ETH,
+564,Anonymus Inu,Exit Scam,ETH,
+565,DRAGON SWAP,Exit Scam,BSC,
+566,Starlink Token,Exit Scam,BSC,
+567,RocketInu,Honeypot,BSC,
+568,Bonny Network,Exit Scam,BSC,
+569,Stratos Network,Exit Scam,ETH,
+570,uglyinu.io,Exit Scam,ETH,
+571,Onlygreen,Exit Scam,BSC,
+572,FormationFi,Exit Scam,BSC,
+573,Croco Inu,Honeypot,ETH,
+574,Kenshi Inu,Honeypot,ETH,
+575,Shiba Diamond,Honeypot,BSC,
+576,ANONYMOUS,Honeypot,BSC,
+577,Sansho Inu,Honeypot,ETH,
+578,ghostshiba.xyz,Honeypot,ETH,
+579,Sether,Exit Scam,ETH,
+580,padthai.finance,Exit Scam,ETH,
+581,Hatch DAO,Exit Scam,ETH,
+582,Bezop,Exit Scam,ETH,
+583,Gladius Token,Exit Scam,ETH,
+584,Kore,Exit Scam,ETH,
+585,Veritaseum,Exit Scam,ETH,
+586,Centra,Exit Scam,ETH,
+587,XSwap,Exit Scam,ETH,
+588,sXRP,Exit Scam,ETH,
+589,Mosaic,Exit Scam,ETH,
+590,Eristica token,Exit Scam,ETH,
+591,Ethereum Metamask,Exit Scam,ETH,
+592,Shivers,Exit Scam,ETH,
+593,PlexCoin,Exit Scam,ETH,
+594,Enigma,Exit Scam,ETH,
+595,Titanium BAR,Exit Scam,ETH,
+596,ShipChain,Exit Scam,ETH,
+597,Yieldby.finance,Exit Scam,ETH,
+598,bitqy,Exit Scam,ETH,
+599,Mooswap,Exit Scam,ETH,
+600,Binance-Peg VeChain,Honeypot,BSC,
+601,ForTheWin,Honeypot,BSC,
+602,Stability Protocol,Honeypot,BSC,
+603,NoCapCoin,Honeypot,BSC,
+604,Tentrix,Honeypot,BSC,
+605,XDAICHAIN,Honeypot,BSC,
+606,GrumpyDoge,Honeypot,ETH,
+607,Baloo Inu,Honeypot,ETH,
+608,JUST FAIR LAUNCH,Honeypot,ETH,
+609,Doge Gang Inu,Honeypot,ETH,
+610,AstroCum,Honeypot,BSC,
+611,komainu.finance,Honeypot,ETH,
+612,MoonShard,Honeypot,BSC,
+613,koinuinu.finance,Honeypot,ETH,
+614,WoodPecker,Honeypot,BSC,
+615,Yearn-V3,Honeypot,ETH,
+616,Cooktail Inu,Honeypot,ETH,
+617,MyokoSwap Token,Honeypot,ETH,
+618,Tōsandō Inu,Exit Scam,ETH,
+619,Sunder Protocol,Exit Scam,ETH,
+620,yLiquidate,Exit Scam,ETH,
+621,TerraCycle,Exit Scam,BSC,
+622,TubbyCoin,Honeypot,ETH,
+623,OwlnTools,Honeypot,BSC,
+624,Nemo Inu,Honeypot,ETH,
+625,STARLINK ELON MUSK,Honeypot,BSC,
+626,Misa Inu,Honeypot,ETH,
+627,shibamiami.cloud,Honeypot,ETH,
+628,ArgonNetwork,Honeypot,BSC,
+629,phuture.finance,Honeypot,ETH,
+630,FuckELON Finance,Honeypot,BSC,
+631,MONKEY,Honeypot,BSC,
+632,Lazy.com,Honeypot,ETH,
+633,epns.io,Honeypot,ETH,
+634,KingRoyal,Honeypot,BSC,
+635,Wrapped AMC,Honeypot,ETH,
+636,CunInu,Honeypot,BSC,
+637,SKYMARS,Honeypot,BSC,
+638,HODLEPUFF,Honeypot,BSC,
+639,Moon Inu Shiba,Honeypot,ETH,
+640,spacedogedollar.com,Honeypot,ETH,
+641,Ethereum Burger,Honeypot,ETH,
+642,NFT.Music,Honeypot,BSC,
+643,Houbi Arena,Honeypot,ETH,
+644,ROTTWEILER INU,Honeypot,ETH,
+645,Universe of Inu,Honeypot,ETH,
+646,FTX Arena,Honeypot,ETH,
+647,CryptionNetwork,Honeypot,BSC,
+648,Bugs Bunny,Honeypot,ETH,
+649,VentureCoin,Honeypot,BSC,
+650,ZIDDLE,Honeypot,BSC,
+651,Yokohama Inu,Honeypot,ETH,
+652,GEMSTONE,Honeypot,BSC,
+653,Shiba Moon,Honeypot,ETH,
+654,NFTify,Honeypot,ETH,
+655,Excavator,Honeypot,BSC,
+656,Shiba Donut,Honeypot,ETH,
+657,Nagasaki Shiba,Honeypot,ETH,
+658,Pharaoh Cat,Honeypot,ETH,
+659,Formation Finance,Honeypot,ETH,
+660,TERMINU,Honeypot,ETH,
+661,Artillery,Honeypot,BSC,
+662,GOOSE FINANCE,Honeypot,ETH,
+663,Dot.Finance,Honeypot,BSC,
+664,Sanindo Inu,Honeypot,ETH,
+665,Shiba Toy,Honeypot,ETH,
+666,CHRONOSFINANCE,Honeypot,BSC,
+667,OKPay Finance,Honeypot,ETH,
+668,PostMaloneCoin,Honeypot,ETH,
+669,PI NETWORK,Honeypot,BSC,
+670,Tribe,Honeypot,ETH,
+671,HOPE,Honeypot,ETH,
+672,Solanium,Honeypot,ETH,
+673,Fei Tribe,Honeypot,ETH,
+674,SunDoge Inu,Honeypot,ETH,
+675,HolderFinance,Honeypot,BSC,
+676,KingSwap,Honeypot,BSC,
+677,Hot Cookies,Honeypot,ETH,
+678,FakeTaxi,Honeypot,BSC,
+679,ElonRocket,Honeypot,BSC,
+680,Bafe.io,Honeypot,BSC,
+681,SafeNuclear,Honeypot,BSC,
+682,Fear NFTs,Honeypot,BSC,
+683,Post Malone Coin,Honeypot,ETH,
+684,MoonSheet,Honeypot,ETH,
+685,KingCorgi,Honeypot,BSC,
+686,NFTQR,Honeypot,BSC,
+687,NFTQR,Honeypot,BSC,
+688,One,Honeypot,BSC,
+689,Polkacomma,Honeypot,BSC,
+690,Iron Mars,Honeypot,BSC,
+691,Ethereum Apex,Honeypot,ETH,
+692,MoonX2,Honeypot,BSC,
+693,BOWL,Honeypot,BSC,
+694,Cook Token,Honeypot,ETH,
+695,SafeNaruto Token,Honeypot,BSC,
+696,Halleys Comet,Honeypot,BSC,
+697,Ultrasafe,Honeypot,BSC,
+698,Unmarshal Token,Honeypot,ETH,
+699,moonfeg,Honeypot,BSC,
+700,Corgo,Honeypot,BSC,
+701,Mewtwo Token,Honeypot,ETH,
+702,nebula,Honeypot,BSC,
+703,Mango.Finance,Honeypot,ETH,
+704,Nifty's,Honeypot,ETH,
+705,TOKO TOKEN,Honeypot,BSC,
+706,POOL SIDE DAO,Honeypot,BSC,
+707,SolanaSwap,Honeypot,ETH,
+708,SmartRush,Honeypot,BSC,
+709,BlueOrigin,Honeypot,BSC,
+710,animecutties,Honeypot,BSC,
+711,RocketBanana,Honeypot,BSC,
+712,KarateInu,Honeypot,ETH,
+713,NFTD Protocol,Honeypot,BSC,
+714,BWare Token,Honeypot,BSC,
+715,SpacePiggy,Honeypot,BSC,
+716,Ethereum KISHU,Honeypot,ETH,
+717,polyMAX,Honeypot,ETH,
+718,Dexlab,Honeypot,ETH,
+719,Ethereum SHIBA,Honeypot,ETH,
+720,SafeCeti,Honeypot,BSC,
+721,incidentCovid,Honeypot,ETH,
+722,SUNLIGHT PROTOCOL,Honeypot,BSC,
+723,TacoSwap,Honeypot,BSC,
+724,GBull,Honeypot,BSC,
+725,MarsRocket,Honeypot,BSC,
+726,EA Sports Token,Honeypot,ETH,
+727,Lossless,Honeypot,BSC,
+728,NiiFi,Honeypot,BSC,
+729,Crypto Farm,Honeypot,BSC,
+730,HAHAHA GO SAFE TOKENS,Honeypot,BSC,
+731,ELONTRUSTED,Honeypot,BSC,
+732,CosmosCoin,Honeypot,BSC,
+733,EXPER,Honeypot,BSC,
+734,StringFinance.io,Honeypot,BSC,
+735,SafeMarket Token,Honeypot,BSC,
+736,BarTown BSC,Honeypot,BSC,
+737,dogemars,Honeypot,BSC,
+738,ASAPfarm,Honeypot,BSC,
+739,ElonGain 1000X,Honeypot,BSC,
+740,VanillaUnicorn,Honeypot,BSC,
+741,saferipple,Honeypot,BSC,
+742,Luxury Finance,Honeypot,BSC,
+743,DangerARK,Honeypot,BSC,
+744,elonrugs,Honeypot,BSC,
+745,NASA Farm,Honeypot,BSC,
+746,shibalabs,Honeypot,BSC,
+747,ElonSafu,Honeypot,BSC,
+748,SafeCatch,Honeypot,BSC,
+749,RebirthFarm.io,Honeypot,BSC,
+750,Sollet,Honeypot,ETH,
+751,RevertFinance Token,Honeypot,BSC,
+752,Moon RUNE,Honeypot,BSC,
+753,APPLEJUICE.FINANCE,Honeypot,BSC,
+754,RollFinance,Honeypot,BSC,
+755,BraveToken,Honeypot,BSC,
+756,LITECOIN STANDAR HASRATE TOKEN,Honeypot,BSC,
+757,SAFEFEG,Honeypot,BSC,
+758,Bombic Finance,Honeypot,ETH,
+759,Cosmos Finance,Honeypot,BSC,
+760,ELONEBULA,Honeypot,BSC,
+761,NEOBUX,Honeypot,BSC,
+762,UNIONJACK - BSC,Honeypot,BSC,
+763,nintendo chain network,Honeypot,BSC,
+764,BERSERK Token,Honeypot,BSC,
+765,Quick Grow,Honeypot,BSC,
+766,WhiteX Finance,Honeypot,BSC,
+767,melonmars,Honeypot,BSC,
+768,safeokko,Honeypot,BSC,
+769,NYAN INU,Honeypot,ETH,
+770,PandoraBSC,Honeypot,BSC,
+771,Shozo Inu,Honeypot,ETH,
+772,Charged Particles Protocol,Honeypot,ETH,
+773,Governor Network,Honeypot,ETH,
+774,WenMoon,Honeypot,BSC,
+775,mooncake,Honeypot,BSC,
+776,ADRENALINE.FINANCE,Honeypot,BSC,
+777,RedSWAP,Honeypot,BSC,
+778,Quantum Farm,Honeypot,BSC,
+779,LastOutFirstWin,Honeypot,BSC,
+780,ELONSPACE,Honeypot,BSC,
+781,EXODUS,Honeypot,BSC,
+782,Mars Ore,Honeypot,BSC,
+783,GOSWAP.IO,Honeypot,BSC,
+784,Instantly,Honeypot,BSC,
+785,XDEFILABS,Honeypot,BSC,
+786,MOON1000X,Honeypot,BSC,
+787,TILY,Honeypot,BSC,
+788,bscgames.win,Honeypot,BSC,
+789,SafeForever,Honeypot,BSC,
+790,BSC HOTEL,Honeypot,BSC,
+791,ElonHODL Token,Honeypot,BSC,
+792,RiserDefi.com,Honeypot,BSC,
+793,white.finance,Exit Scam,ETH,
+794,SafeMoon,Honeypot,BSC,
+795,gorillapump.net,Honeypot,BSC,
+796,Concordium,Honeypot,ETH,
+797,MEMElonMusk,Honeypot,ETH,
+798,Space X Crew,Honeypot,ETH,
+799,Crypto Puzzles,Honeypot,ETH,
+800,PurpleGoat,Honeypot,BSC,
+801,IronyMan,Honeypot,ETH,
+802,Moon Mission Elon,Honeypot,ETH,
+803,Mother Of Dragon,Honeypot,ETH,
+804,DOGE ROCKET,Honeypot,BSC,
+805,ElonFinance,Honeypot,ETH,
+806,SolstarterToken,Honeypot,ETH,
+807,Doggy Token,Honeypot,ETH,
+808,SUPERCYCLE,Honeypot,BSC,
+809,Oportunity Token,Honeypot,ETH,
+810,NUKE INU,Honeypot,ETH,
+811,London X Protocol,Honeypot,ETH,
+812,Elon Payment Ecosystem,Honeypot,ETH,
+813,The Dragon Father,Honeypot,ETH,
+814,NyanDoge,Honeypot,ETH,
+815,Umbrella,Honeypot,BSC,
+816,Tokka Inu,Honeypot,ETH,
+817,Bring.finance,Honeypot,ETH,
+818,ElonStar,Honeypot,ETH,
+819,Skrill DOGE,Honeypot,ETH,
+820,Sienna.Network,Honeypot,ETH,
+821,Maple.Finance,Honeypot,ETH,
+822,Lever Network,Honeypot,ETH,
+823,Meow Token,Honeypot,ETH,
+824,Peanut Butter,Honeypot,ETH,
+825,makiswap.com,Honeypot,ETH,
+826,Don-Key.finance,Honeypot,ETH,
+827,CrossPad,Honeypot,ETH,
+828,Elon Payment Ecosystem,Honeypot,ETH,
+829,DNA TOKEN,Honeypot,BSC,
+830,The Doge Godfather,Honeypot,ETH,
+831,NFTify.Network,Honeypot,ETH,
+832,SpaceX Starlink,Honeypot,ETH,
+833,Dojecoin,Honeypot,BSC,
+834,RedefinexProtocol,Honeypot,BSC,
+835,Moon Fox Community,Honeypot,ETH,
+836,IPX,Honeypot,BSC,
+837,Librex,Honeypot,BSC,
+838,DOGE PARTY,Honeypot,BSC,
+839,HerionProtocol,Honeypot,BSC,
+840,LamboToken,Honeypot,BSC,
+841,Horse Protocol,Honeypot,ETH,
+842,Media Network,Honeypot,ETH,
+843,⛓️IronChain token,Honeypot,BSC,
+844,NAOS Finance,Honeypot,ETH,
+845,TerrainNFT,Honeypot,BSC,
+846,FujiProtocol,Honeypot,BSC,
+847,EasterEgg,Honeypot,BSC,
+848,Covalent,Honeypot,ETH,
+849,QixiSwap,Honeypot,BSC,
+850,Miraculous??,Honeypot,BSC,
+851,? SNAKE FIST NETWORK ?,Honeypot,BSC,
+852,Infinity Cat,Honeypot,ETH,
+853,UMBRELLA,Honeypot,BSC,
+854,DerioxDefi,Honeypot,BSC,
+855,TokenFomo.pro,Honeypot,BSC,
+856,EASYFEEDBACK,Honeypot,BSC,
+857,Shining Stars Token,Honeypot,ETH,
+858,MoonRobin,Honeypot,BSC,
+859,Everest,Honeypot,BSC,
+860,MW,Honeypot,BSC,
+861,XFai,Honeypot,BSC,
+862,infinityElon,Honeypot,ETH,
+863,MoonSend?,Honeypot,BSC,
+864,Darth Vader Token,Honeypot,ETH,
+865,SB,Honeypot,BSC,
+866,SaitoToken,Honeypot,BSC,
+867,CereNetwork,Honeypot,BSC,
+868,XenonFinance,Honeypot,BSC,
+869,MK,Honeypot,BSC,
+870,Sushi Finance,Honeypot,BSC,
+871,Atomas,Honeypot,BSC,
+872,PolarisFinance,Honeypot,BSC,
+873,BENQi,Honeypot,BSC,
+874,STARTFI,Honeypot,BSC,
+875,OceanEx,Honeypot,ETH,
+876,slashprotocol.com,Honeypot,ETH,
+877,SpaceXDeimos,Honeypot,BSC,
+878,NFTbs,Honeypot,BSC,
+879,eTHEREUMGIRL,Honeypot,ETH,
+880,GalaxyToken,Honeypot,BSC,
+881,NYANINU,Honeypot,ETH,
+882,SpheriumFinance,Honeypot,BSC,
+883,SmartShiba,Honeypot,BSC,
+884,FudderElon,Honeypot,BSC,
+885,NINJA CAT,Honeypot,BSC,
+886,DogeRoulette,Honeypot,BSC,
+887,Tara Inu,Honeypot,ETH,
+888,Moonpad,Honeypot,BSC,
+889,Ethereum 2.0,Honeypot,ETH,
+890,SnoopToken,Honeypot,BSC,
+891,dogejavu.com,Honeypot,BSC,
+892,Elon&#x27;s Gay For Doge,Honeypot,BSC,
+893,Forest token,Honeypot,BSC,
+894,NeuroChain,Honeypot,BSC,
+895,GAYSHIBA,Honeypot,BSC,
+896,dmoon.finance,Honeypot,ETH,
+897,LGBTToken,Honeypot,BSC,
+898,PhutureProtocol,Honeypot,BSC,
+899,Strawberry,Honeypot,BSC,
+900,SparkEnergy,Honeypot,BSC,
+901,NFT GEM,Honeypot,BSC,
+902,BinanceInu.Bep20,Honeypot,BSC,
+903,Sakura Inu,Honeypot,ETH,
+904,Shibaboss,Honeypot,BSC,
+905,Sphynx Token,Honeypot,ETH,
+906,LEASHSWAP,Honeypot,ETH,
+907,Koshka Miu,Honeypot,BSC,
+908,SAFEMOONSHOT,Honeypot,BSC,
+909,DIAMOND FUCKING HANDS,Honeypot,BSC,
+910,Centrifuge,Honeypot,BSC,
+911,1000xCoin,Honeypot,BSC,
+912,BongWeedCoin,Honeypot,BSC,
+913,DwayneCoin,Honeypot,BSC,
+914,taxi Finance,Honeypot,BSC,
+915,SPEEDDAO,Honeypot,BSC,
+916,SpaceXDoge,Honeypot,BSC,
+917,HungryShiba,Honeypot,ETH,
+918,SkyRocket,Honeypot,BSC,
+919,LIGMA,Honeypot,ETH,
+920,Glitch,Honeypot,BSC,
+921,DuckCoin,Honeypot,BSC,
+922,SafeTed,Honeypot,BSC,
+923,DogeStar,Honeypot,BSC,
+924,Coffee Shop DAO,Honeypot,ETH,
+925,Freela,Honeypot,ETH,
+926,EMACITY TOKEN,Honeypot,BSC,
+927,MarsLanding,Honeypot,BSC,
+928,HARDBALL,Honeypot,BSC,
+929,Jaku Inu,Honeypot,BSC,
+930,SonicSpeed,Honeypot,BSC,
+931,Pigg Token,Honeypot,BSC,
+932,BitDoge,Honeypot,BSC,
+933,BathroomSwap,Honeypot,BSC,
+934,SPACEDOGE,Honeypot,BSC,
+935,New Deep Thots,Honeypot,BSC,
+936,KING TRUMP,Honeypot,BSC,
+937,PI NETWORK TOKEN,Honeypot,BSC,
+938,Stratos,Honeypot,BSC,
+939,Pinknode,Honeypot,BSC,
+940,Antares,Honeypot,ETH,
+941,FUTURE,Honeypot,BSC,
+942,Diamond Hands Inu,Honeypot,ETH,
+943,Vulcano,Honeypot,ETH,
+944,Wu-Tang Financial,Honeypot,ETH,
+945,NeptuneWallet,Honeypot,BSC,
+946,NFTLogy,Honeypot,BSC,
+947,Moony Farm,Honeypot,ETH,
+948,Brainstorm,Honeypot,ETH,
+949,Squirtle,Honeypot,BSC,
+950,PROJECT LION,Honeypot,BSC,
+951,GUCCI,Honeypot,BSC,
+952,Step Finance,Honeypot,BSC,
+953,PoopyFinance,Honeypot,BSC,
+954,RocketShip,Honeypot,BSC,
+955,Jade Currency,Honeypot,BSC,
+956,Virgin Elon,Honeypot,ETH,
+957,AppleFive,Honeypot,BSC,
+958,COFFEE MOON,Honeypot,BSC,
+959,GO,Honeypot,BSC,
+960,DIAMOND,Honeypot,BSC,
+961,RocketAkita,Honeypot,BSC,
+962,Paralink Network,Honeypot,BSC,
+963,Lucky Coin,Honeypot,BSC,
+964,Smaugs,Honeypot,BSC,
+965,META,Honeypot,BSC,
+966,SAFE SHIBA,Honeypot,BSC,
+967,ShibaBTC,Honeypot,BSC,
+968,Real Madrid FC,Honeypot,ETH,
+969,Rabbit Finance,Honeypot,BSC,
+970,TogetherWeStand,Honeypot,BSC,
+971,Melon Musk,Honeypot,BSC,
+972,SpaceGoat,Honeypot,BSC,
+973,CRYPTO MOON SHOTS,Honeypot,BSC,
+974,WOO,Honeypot,BSC,
+975,BSCstarter,Honeypot,BSC,
+976,KoinChurch,Honeypot,BSC,
+977,HolyMoon,Honeypot,BSC,
+978,600X,Honeypot,BSC,
+979,Redbean Token,Honeypot,BSC,
+980,Muk Finance,Honeypot,BSC,
+981,FLORIDA,Honeypot,ETH,
+982,Potato,Honeypot,BSC,
+983,Jesus Doge,Honeypot,BSC,
+984,Elon Moon,Honeypot,BSC,
+985,GamyFi,Honeypot,ETH,
+986,Cockzilla,Honeypot,ETH,
+987,24Hours,Honeypot,BSC,
+988,Safewog,Honeypot,BSC,
+989,BraveHeart TOKEN,Honeypot,BSC,
+990,Polkamon,Honeypot,BSC,
+991,GemNFT,Honeypot,BSC,
+992,Golden Mining GAS,Honeypot,BSC,
+993,Mommy Milkers,Honeypot,ETH,
+994,KURMA,Honeypot,BSC,
+995,Auditore,Honeypot,BSC,
+996,MoonFEG Token,Honeypot,BSC,
+997,benchmars protocol,Honeypot,BSC,
+998,Rabbit Swap,Honeypot,BSC,
+999,rewardiqa,Honeypot,BSC,
+1000,SAFEEARTH,Honeypot,BSC,
+1001,ElonFunds,Honeypot,BSC,
+1002,MoonStreetBets,Honeypot,BSC,
+1003,QuickMOON,Honeypot,BSC,
+1004,Polka Ventures,Honeypot,ETH,
+1005,SafeTeslaCoil,Honeypot,BSC,
+1006,SolaceToken,Honeypot,BSC,
+1007,SafeTonyStark Bsc,Honeypot,BSC,
+1008,ThugLife,Honeypot,BSC,
+1009,SafeBeer,Honeypot,BSC,
+1010,SAFEHarvest,Honeypot,BSC,
+1011,7finance.io,Honeypot,BSC,
+1012,7seven Finance,Honeypot,ETH,
+1013,SpeedMOON,Honeypot,BSC,
+1014,SpriteXFinance,Honeypot,BSC,
+1015,SafeFLM,Honeypot,BSC,
+1016,DieselPumpToken,Honeypot,BSC,
+1017,KGBCoin,Honeypot,BSC,
+1018,NoCapFax COIN,Honeypot,BSC,
+1019,OminousToken,Honeypot,BSC,
+1020,ElonTrade 100x,Honeypot,BSC,
+1021,KINGOFREFLECT,Honeypot,BSC,
+1022,GoalTimeN Finance,Honeypot,ETH,
+1023,EVER MOON,Honeypot,BSC,
+1024,StudToken,Honeypot,BSC,
+1025,Zona Indonesia,Honeypot,BSC,
+1026,Tribute.finance,Honeypot,BSC,
+1027,TAKE OF ELON,Honeypot,BSC,
+1028,Coconut finance,Honeypot,BSC,
+1029,TILDA and Co Token,Honeypot,BSC,
+1030,SaltYield.finance,Honeypot,BSC,
+1031,SAFEMARS,Honeypot,BSC,
+1032,SpaceMoon,Honeypot,BSC,
+1033,TESLAFARM.FINANCE,Honeypot,BSC,
+1034,REAPit,Honeypot,BSC,
+1035,SHOPEEPAY,Honeypot,BSC,
+1036,SafeCat,Honeypot,BSC,
+1037,SeaGroxCoin,Honeypot,BSC,
+1038,Fei protocol,Honeypot,ETH,
+1039,Polkalokr,Honeypot,ETH,
+1040,OzarkToken,Honeypot,ETH,
+1041,MoonDust,Honeypot,BSC,
+1042,Rage.Fan,Honeypot,ETH,
+1043,SafeSuperHeavy,Honeypot,BSC,
+1044,Forcedao.com,Honeypot,ETH,
+1045,ELONCAKE,Honeypot,BSC,
+1046,Ramifi.org,Honeypot,ETH,
+1047,Unmarshal.io,Honeypot,ETH,
+1048,Atomic Bomb,Honeypot,BSC,
+1049,LUNACAT,Honeypot,BSC,
+1050,NeutrinoProtocol,Honeypot,BSC,
+1051,Larafinance,Honeypot,BSC,
+1052,COTTON CANDY NETWORK,Honeypot,BSC,
+1053,LIMEWAX PROTOCOL,Honeypot,BSC,
+1054,DogeMother,Honeypot,BSC,
+1055,Counter Strike Community,Honeypot,ETH,
+1056,EricCartman,Honeypot,BSC,
+1057,Da Vinci Coin,Honeypot,ETH,
+1058,Instaswap,Honeypot,BSC,
+1059,TACHYON,Honeypot,BSC,
+1060,Hello Kitty Protocol,Honeypot,ETH,
+1061,MoonPay,Honeypot,BSC,
+1062,SafeDogeFather,Honeypot,BSC,
+1063,SPACEPENGUIN,Honeypot,BSC,
+1064,Dogefather,Honeypot,BSC,
+1065,Safecare,Honeypot,BSC,
+1066,DogeFather,Honeypot,BSC,
+1067,UniverseDoge,Honeypot,ETH,
+1068,Travel Coin Community,Honeypot,ETH,
+1069,Elon Doge,Honeypot,ETH,
+1070,BlackHole.BLACK Governance Token,Honeypot,ETH,
+1071,PressureFinance,Honeypot,BSC,
+1072,Changify,Honeypot,BSC,
+1073,World Of Warcraft,Honeypot,ETH,
+1074,DEXTrust.Finance,Honeypot,ETH,
+1075,ElonDash,Honeypot,ETH,
+1076,SmartFinance,Honeypot,BSC,
+1077,Pink Panther Protocol,Honeypot,ETH,
+1078,ValueNFT,Honeypot,BSC,
+1079,SunvaChain,Honeypot,BSC,
+1080,Parental Advisory Token,Honeypot,ETH,
+1081,GOKUBSC,Honeypot,ETH,
+1082,Safe World Elon,Honeypot,ETH,
+1083,Solanium.io,Honeypot,ETH,
+1084,Legends of Crypto,Honeypot,ETH,
+1085,EpsilonFinance,Honeypot,BSC,
+1086,NixMoon,Honeypot,BSC,
+1087,TachyonProtocol,Honeypot,BSC,
+1088,AquafiProtocol,Honeypot,BSC,
+1089,BitLink,Honeypot,BSC,
+1090,Zevia,Honeypot,BSC,
+1091,LunarLaunchProject,Honeypot,BSC,
+1092,Flare,Honeypot,BSC,
+1093,TheAPIS,Honeypot,BSC,
+1094,Monkey Token,Honeypot,ETH,
+1095,Oracle Protocol,Honeypot,ETH,
+1096,HoneyMoon,Honeypot,BSC,
+1097,Smoothy Finance,Honeypot,ETH,
+1098,BucksCake,Honeypot,ETH,
+1099,UniFarm,Honeypot,ETH,
+1100,SHIBA PROTOCOL,Honeypot,BSC,
+1101,SEEDCOIN?,Honeypot,BSC,
+1102,Space Porn Token,Honeypot,ETH,
+1103,TakuraInu,Honeypot,ETH,
+1104,Saito.io,Honeypot,ETH,
+1105,Bull,Honeypot,BSC,
+1106,SATANS PLAYHOUSE,Honeypot,BSC,
+1107,Lion King Token,Honeypot,ETH,
+1108,Coronal Mass Ejection,Honeypot,BSC,
+1109,Floyd Crypto Mayweather,Honeypot,ETH,
+1110,Inu Token,Honeypot,ETH,
+1111,HANNIBAL LECTOR PROTOCOL,Honeypot,ETH,
+1112,Pudgy Token,Honeypot,BSC,
+1113,STAR WARS ETH PROTOCOL,Honeypot,ETH,
+1114,BullsDrop,Honeypot,BSC,
+1115,Kianite.co,Honeypot,ETH,
+1116,Ares Protocol,Honeypot,ETH,
+1117,SuperMoon Token,Honeypot,ETH,
+1118,Mochi.market,Honeypot,ETH,
+1119,FullSun,Honeypot,BSC,
+1120,Smoothy.Finance,Honeypot,ETH,
+1121,Dogs Playing Poker,Honeypot,ETH,
+1122,The Crypto Prophecies,Honeypot,ETH,
+1123,Egg Plant Token,Honeypot,ETH,
+1124,Golden Retriever,Honeypot,ETH,
+1125,Peruvian Coke,Honeypot,ETH,
+1126,Dogewin,Honeypot,ETH,
+1127,World of Musk,Honeypot,ETH,
+1128,Porn Doge,Honeypot,ETH,
+1129,BillGates,Honeypot,ETH,
+1130,FUCK MUSK,Honeypot,ETH,
+1131,David Guetta NFT,Honeypot,ETH,
+1132,Impala Inu,Honeypot,ETH,
+1133,COCACOLA Comunity,Honeypot,ETH,
+1134,VitalikDoge,Honeypot,ETH,
+1135,Eloneum Token,Honeypot,ETH,
+1136,krosschain.app,Honeypot,ETH,
+1137,Papa Elon,Honeypot,ETH,
+1138,BOGDANOFF,Exit Scam,BSC,
+1139,NFT ECO,Honeypot,BSC,
+1140,ORANGE TOKEN,Honeypot,BSC,
+1141,Kobe,Honeypot,BSC,
+1142,Kimchi Inu,Honeypot,ETH,
+1143,SAFEOXYGEN Token,Honeypot,BSC,
+1144,OnlyFans,Honeypot,BSC,
+1145,BULLRUN,Honeypot,BSC,
+1146,BOMB Token,Honeypot,BSC,
+1147,HACHIKO INU,Honeypot,BSC,
+1148,Kiju Inu,Honeypot,ETH,
+1149,NETVRK,Honeypot,ETH,
+1150,Kwikswap,Honeypot,ETH,
+1151,FULLMOON,Honeypot,BSC,
+1152,RUSHMOON,Honeypot,BSC,
+1153,Smells Like Updoge,Honeypot,ETH,
+1154,MAMASHIBA,Honeypot,ETH,
+1155,MoonGiraffe,Honeypot,BSC,
+1156,Shuby Inu,Honeypot,ETH,
+1157,BRONZE Token,Honeypot,BSC,
+1158,ShinyShiba,Honeypot,BSC,
+1159,COPE,Honeypot,ETH,
+1160,Schmeckles,Honeypot,BSC,
+1161,xmars,Honeypot,BSC,
+1162,SafeZeta,Honeypot,BSC,
+1163,ZirgonYield,Honeypot,BSC,
+1164,HavaxToken,Honeypot,BSC,
+1165,SafeEden,Honeypot,BSC,
+1166,SAFEPAID,Honeypot,BSC,
+1167,SAFE SMART,Honeypot,BSC,
+1168,ELONBSC,Honeypot,BSC,
+1169,SAFEDOT,Honeypot,BSC,
+1170,KINGLER,Honeypot,BSC,
+1171,ELONSPIRIT,Honeypot,BSC,
+1172,SUGAR,Honeypot,BSC,
+1173,Golden Moon,Honeypot,BSC,
+1174,SAFELAWN,Honeypot,BSC,
+1175,Asteroid Farm,Honeypot,BSC,
+1176,DETA FINANCE,Honeypot,BSC,
+1177,Moon Ore,Honeypot,BSC,
+1178,Torchic,Exit Scam,BSC,
+1179,PhenoToken.Finance,Honeypot,BSC,
+1180,safe-x.space,Honeypot,ETH,
+1181,MaxFarm,Honeypot,BSC,
+1182,Nuclear Product,Honeypot,BSC,
+1183,GradeFarm,Honeypot,BSC,
+1184,Coinlix,Honeypot,BSC,
+1185,SlothFinance,Honeypot,BSC,
+1186,SafeRedux,Honeypot,BSC,
+1187,SilentFarm,Honeypot,BSC,
+1188,Blast Token,Honeypot,BSC,
+1189,Rocket Farm,Honeypot,BSC,
+1190,SAFEWAVE,Honeypot,BSC,
+1191,NovaFinance,Honeypot,BSC,
+1192,ANOTHER,Honeypot,BSC,
+1193,yTrio,Honeypot,BSC,
+1194,JengaHepasus,Honeypot,BSC,
+1195,SubFinance,Honeypot,BSC,
+1196,Test1,Honeypot,BSC,
+1197,SAFEMOZART,Honeypot,BSC,
+1198,MOONXV,Honeypot,BSC,
+1199,MoonWalkers,Honeypot,BSC,
+1200,SMOKE TOKEN,Honeypot,BSC,
+1201,Internet Computer,Honeypot,BSC,
+1202,SafeRise,Honeypot,BSC,
+1203,Chunky Inu,Honeypot,ETH,
+1204,siphonfinance,Honeypot,BSC,
+1205,BIRDE,Honeypot,BSC,
+1206,One SG,Honeypot,BSC,
+1207,Private Token Offering,Honeypot,BSC,
+1208,ELONFLY,Honeypot,BSC,
+1209,SafeNeptuneBSC,Honeypot,BSC,
+1210,SwayFinance,Honeypot,BSC,
+1211,MinerClub,Honeypot,BSC,
+1212,SilentExpress,Honeypot,BSC,
+1213,ClubMiner,Honeypot,BSC,
+1214,WAPToken,Honeypot,BSC,
+1215,jackma,Honeypot,BSC,
+1216,SafeLucky,Honeypot,BSC,
+1217,Pumpamental,Honeypot,BSC,
+1218,MoonExpress,Honeypot,BSC,
+1219,LIGHT LUNAR PROTOCOL,Honeypot,BSC,
+1220,TATGAS,Honeypot,BSC,
+1221,Casper Network,Honeypot,BSC,
+1222,Hotstar Finance,Honeypot,BSC,
+1223,ELONSWAP.ORG,Honeypot,BSC,
+1224,Polaroid,Honeypot,BSC,
+1225,SmartGEX,Honeypot,BSC,
+1226,ETRADE,Honeypot,BSC,
+1227,cybermoon,Honeypot,BSC,
+1228,LimewireSwap,Honeypot,BSC,
+1229,LocalExchange,Honeypot,BSC,
+1230,SafeCurve,Honeypot,BSC,
+1231,ElonTrust,Honeypot,BSC,
+1232,MoneyChain,Honeypot,BSC,
+1233,autobots,Honeypot,BSC,
+1234,MetaLEX,Honeypot,BSC,
+1235,HighVacToken,Honeypot,BSC,
+1236,Instatoken,Honeypot,BSC,
+1237,ParaDEX,Honeypot,BSC,
+1238,SafeSky,Honeypot,BSC,
+1239,Stimpack,Honeypot,BSC,
+1240,WooToken,Honeypot,BSC,
+1241,WooToken,Honeypot,BSC,
+1242,SAFEMYANMAR,Honeypot,BSC,
+1243,LiptonSWAP,Honeypot,BSC,
+1244,ChainLab,Honeypot,BSC,
+1245,Haas.Finance,Honeypot,BSC,
+1246,Travel Consulting,Honeypot,BSC,
+1247,SafeMaze,Honeypot,BSC,
+1248,SafeJinx,Honeypot,BSC,
+1249,NoxCommunications,Honeypot,BSC,
+1250,NILONFINANCE,Honeypot,BSC,
+1251,GripFinance,Honeypot,BSC,
+1252,AutoAction Token,Honeypot,BSC,
+1253,COCOS,Honeypot,BSC,
+1254,CoilSwap,Honeypot,BSC,
+1255,CrossASR,Honeypot,BSC,
+1256,Humble,Honeypot,BSC,
+1257,Farrow Token,Honeypot,BSC,
+1258,Security Check Token,Honeypot,BSC,
+1259,GanGnamChain,Honeypot,BSC,
+1260,Tidal Finance,Honeypot,ETH,
+1261,TROJAN,Honeypot,BSC,
+1262,Virax Coin,Honeypot,BSC,
+1263,GrillCoin,Honeypot,BSC,
+1264,ShineFinance,Honeypot,BSC,
+1265,RUGBOT,Honeypot,BSC,
+1266,Arbitrage Bot,Honeypot,BSC,
+1267,LaToken,Honeypot,BSC,
+1268,EXTREME,Honeypot,BSC,
+1269,Boson Token,Honeypot,ETH,
+1270,SafeReason Token,Honeypot,BSC,
+1271,SAFEBOT,Honeypot,BSC,
+1272,ELONSAFE,Honeypot,BSC,
+1273,SAFEBOZON,Honeypot,BSC,
+1274,UBERMOON,Honeypot,BSC,
+1275,SAFEDONNUT,Honeypot,BSC,
+1276,NanoChain,Honeypot,BSC,
+1277,NanoChain,Honeypot,BSC,
+1278,Voodoo,Honeypot,BSC,
+1279,Porto Token,Honeypot,BSC,
+1280,Solid Swap Token,Honeypot,BSC,
+1281,SAFEBUNNY,Honeypot,BSC,
+1282,SAFEWAY,Honeypot,BSC,
+1283,SpaceNix,Honeypot,BSC,
+1284,AnyDEX,Honeypot,BSC,
+1285,CORAL,Honeypot,BSC,
+1286,SafeMario Bros Bsc,Honeypot,BSC,
+1287,SafeQuasiStar,Honeypot,BSC,
+1288,SAFEFISH,Honeypot,BSC,
+1289,Builder Finance,Honeypot,BSC,
+1290,SafePOODLE,Honeypot,BSC,
+1291,WOK.FARM,Honeypot,BSC,
+1292,Elon Rocket,Honeypot,BSC,
+1293,SAFEWHALE,Honeypot,BSC,
+1294,SAODWINDEXTOKEN,Honeypot,BSC,
+1295,SAFUCOIN,Honeypot,BSC,
+1296,BUNNY DAO,Honeypot,BSC,
+1297,MonkeyDEX,Honeypot,BSC,
+1298,SIXNETWORK,Honeypot,BSC,
+1299,MoonAkita Inu,Honeypot,BSC,
+1300,SAFERARI,Honeypot,BSC,
+1301,Solstarter,Honeypot,BSC,
+1302,BeverlyFiks,Honeypot,BSC,
+1303,Instacoin,Honeypot,BSC,
+1304,LapuntuToken,Honeypot,BSC,
+1305,SafeStack,Honeypot,BSC,
+1306,SafeRetro,Honeypot,BSC,
+1307,SupHerbs,Honeypot,BSC,
+1308,ASTROSTONKS,Honeypot,ETH,
+1309,TeslaModelS Plaid,Honeypot,BSC,
+1310,GGININDER,Honeypot,BSC,
+1311,LETHE Token,Honeypot,BSC,
+1312,NeverGonnaRugYouUp,Honeypot,BSC,
+1313,FomoBaggins,Honeypot,BSC,
+1314,DipBitcoin,Honeypot,BSC,
+1315,IDEA Token,Honeypot,BSC,
+1316,CleanEnergyToken,Honeypot,BSC,
+1317,SAFEPUP TOKEN,Honeypot,BSC,
+1318,Polkally,Honeypot,BSC,
+1319,ELEPHANT,Honeypot,BSC,
+1320,MONKEY,Honeypot,BSC,
+1321,COOM,Honeypot,BSC,
+1322,HAWK TOKEN,Honeypot,BSC,
+1323,E-Coin,Honeypot,BSC,
+1324,Starbase Launch Pad,Honeypot,BSC,
+1325,YieldShiba.com,Honeypot,BSC,
+1326,KodaRobotDog Token,Honeypot,BSC,
+1327,Pinknode,Honeypot,BSC,
+1328,PANKY TOKEN,Honeypot,BSC,
+1329,mozik,Honeypot,BSC,
+1330,LION,Honeypot,BSC,
+1331,PirateElon,Honeypot,BSC,
+1332,OliveOptions,Honeypot,BSC,
+1333,PIKE TOKEN,Honeypot,BSC,
+1334,ElonCash,Honeypot,BSC,
+1335,TIGER,Honeypot,BSC,
+1336,MoonChain,Honeypot,BSC,
+1337,KreamPie,Honeypot,BSC,
+1338,GIGABERLIN,Honeypot,BSC,
+1339,TERA TOKEN,Honeypot,BSC,
+1340,DogeStar,Honeypot,BSC,
+1341,SHIBA BAG,Honeypot,BSC,
+1342,SHIBA PLATINUM,Honeypot,BSC,
+1343,SNAKE TOKEN,Honeypot,BSC,
+1344,MoonDegenerates,Honeypot,BSC,
+1345,JaguarMOON,Honeypot,BSC,
+1346,MoonFly,Honeypot,BSC,
+1347,Eloge Inu,Honeypot,ETH,
+1348,FUCKELON,Honeypot,BSC,
+1349,NOZOMI,Honeypot,BSC,
+1350,Transaction Control Protocol,Honeypot,ETH,
+1351,Akitoge Inu,Honeypot,ETH,
+1352,MingHua,Honeypot,BSC,
+1353,HuskyMoon,Honeypot,BSC,
+1354,Moon Scatter,Honeypot,BSC,
+1355,ELON INU,Honeypot,BSC,
+1356,MILK TOKEN,Honeypot,BSC,
+1357,DOGELD TRUMP,Honeypot,BSC,
+1358,GEMROCKET,Honeypot,BSC,
+1359,WOODEN Token,Honeypot,BSC,
+1360,NEPTUNE Token,Honeypot,BSC,
+1361,TokenFox,Honeypot,BSC,
+1362,SafeMEME,Honeypot,BSC,
+1363,YOOSHI,Honeypot,ETH,
+1364,STARBOY,Honeypot,ETH,
+1365,Dasani,Honeypot,BSC,
+1366,SkyDog,Honeypot,BSC,
+1367,CatzCoin,Honeypot,ETH,
+1368,DogPoo,Honeypot,ETH,
+1369,GoatCoin,Honeypot,BSC,
+1370,GOATMOON,Honeypot,BSC,
+1371,Alaskan,Honeypot,BSC,
+1372,JindoInu,Honeypot,ETH,
+1373,GDOGE,Honeypot,BSC,
+1374,WhereLambo,Honeypot,BSC,
+1375,KumaInu,Honeypot,BSC,
+1376,GDRAGON,Honeypot,BSC,
+1377,Faraland - Battle of Crystals,Honeypot,BSC,
+1378,LuckyDoge,Honeypot,BSC,
+1379,X1000 ONLY,Honeypot,BSC,
+1380,SHIOGE INU,Honeypot,ETH,
+1381,IRON TOKEN,Honeypot,BSC,
+1382,AERION,Honeypot,BSC,
+1383,KNIGHT TOKEN,Honeypot,BSC,
+1384,T-Rex,Honeypot,BSC,
+1385,SHIBACOIN,Honeypot,ETH,
+1386,JAGUAR,Honeypot,BSC,
+1387,ENIGMA TOKEN,Honeypot,BSC,
+1388,Golden Pig Moon,Honeypot,ETH,
+1389,TasteNFT,Honeypot,ETH,
+1390,MulletCoinClub,Honeypot,BSC,
+1391,VAVAToken,Honeypot,BSC,
+1392,SAFEMOONSWAP,Honeypot,ETH,
+1393,Maxxi Protocol,Honeypot,BSC,
+1394,INUSWAP,Honeypot,ETH,
+1395,KISHUSWAP,Honeypot,ETH,
+1396,CHOWINU,Honeypot,ETH,
+1397,FOX TOKEN,Honeypot,BSC,
+1398,MoonBois,Honeypot,BSC,
+1399,FLOWER TOKEN,Honeypot,BSC,
+1400,ARGOAPP,Honeypot,BSC,
+1401,Nafter,Honeypot,BSC,
+1402,WATER TOKEN,Honeypot,BSC,
+1403,Nafter,Honeypot,BSC,
+1404,RUBY,Honeypot,BSC,
+1405,Glitch-Finance,Honeypot,BSC,
+1406,ShinyDoge,Honeypot,BSC,
+1407,SEA TOKEN,Honeypot,BSC,
+1408,Patrigio,Honeypot,BSC,
+1409,LILDOG,Honeypot,BSC,
+1410,Cheetah Coin,Honeypot,ETH,
+1411,BEAR TOKEN,Honeypot,BSC,
+1412,WEED TOKEN,Honeypot,BSC,
+1413,PABLO FINANCE,Honeypot,BSC,
+1414,Chubby Akita,Honeypot,BSC,
+1415,$FUCKELON,Honeypot,BSC,
+1416,DogelonMars,Honeypot,BSC,
+1417,Ultra Safe,Honeypot,BSC,
+1418,SpaceXDoge,Honeypot,BSC,
+1419,PangeaOceanCleaunUp,Honeypot,BSC,
+1420,WeSpace,Honeypot,BSC,
+1421,Protocol.fractal.id,Honeypot,ETH,
+1422,FUN TOKEN,Honeypot,BSC,
+1423,Capellix,Honeypot,BSC,
+1424,Chava,Honeypot,BSC,
+1425,FUCK ELON,Honeypot,BSC,
+1426,GoldenEsse,Honeypot,BSC,
+1427,Laugh Out Loud,Honeypot,BSC,
+1428,TheRealKabosu,Honeypot,ETH,
+1429,NoNameNetworks,Honeypot,BSC,
+1430,DoucheCoin,Honeypot,BSC,
+1431,THANKS ELON,Honeypot,BSC,
+1432,TRUE Token,Honeypot,BSC,
+1433,ROCKETMARS,Honeypot,BSC,
+1434,Vitalik Buterin,Honeypot,ETH,
+1435,ElonSpace BSC,Honeypot,BSC,
+1436,TESLA,Honeypot,BSC,
+1437,Vitalik Shiba Buterin,Honeypot,ETH,
+1438,EITHERMOON,Honeypot,BSC,
+1439,FORESTTOKEN,Honeypot,BSC,
+1440,PLUTO,Honeypot,BSC,
+1441,GWEIMOON,Honeypot,BSC,
+1442,BaTorrent,Honeypot,BSC,
+1443,safejembut,Honeypot,BSC,
+1444,holdxrp,Honeypot,BSC,
+1445,SWATSWAP,Honeypot,BSC,
+1446,SafeSpin Token,Honeypot,BSC,
+1447,SafeMoonz,Honeypot,BSC,
+1448,MoonSHIBA,Honeypot,BSC,
+1449,HashStandart,Honeypot,BSC,
+1450,CrispToken,Honeypot,BSC,
+1451,Real RealExchange,Honeypot,BSC,
+1452,SAFEPAY,Honeypot,BSC,
+1453,PunkHats,Honeypot,BSC,
+1454,SafeFinance,Honeypot,BSC,
+1455,Safeenergy,Honeypot,BSC,
+1456,DoubleFinance,Honeypot,BSC,
+1457,PortableChain,Honeypot,BSC,
+1458,Survival Swap Token,Honeypot,BSC,
+1459,Evergreen,Honeypot,BSC,
+1460,SafeMeta,Honeypot,BSC,
+1461,SafeSolace Token,Honeypot,BSC,
+1462,SafePlay Token,Honeypot,BSC,
+1463,Delta Financial,Honeypot,ETH,
+1464,MerchDAO,Honeypot,ETH,
+1465,ELONMARS,Honeypot,BSC,
+1466,PESO NETWORK,Honeypot,BSC,
+1467,PESO NETWORK,Honeypot,BSC,
+1468,DINAR PROTOCOL,Honeypot,BSC,
+1469,SAFESATURN,Honeypot,BSC,
+1470,supershiba,Honeypot,BSC,
+1471,Cartoon Network,Honeypot,ETH,
+1472,Atmosphere,Honeypot,BSC,
+1473,Safe Sex,Honeypot,ETH,
+1474,Monkey Island,Honeypot,ETH,
+1475,UnoRe,Honeypot,ETH,
+1476,Smiley Face,Honeypot,ETH,
+1477,Alphr Finance,Honeypot,ETH,
+1478,Kurilian Protocol,Honeypot,ETH,
+1479,German Shepherd,Honeypot,ETH,
+1480,MOONDUST?,Honeypot,ETH,
+1481,ElonMuskrat,Honeypot,ETH,
+1482,Green Energy Tesla,Honeypot,ETH,
+1483,1MILNFT,Honeypot,ETH,
+1484,Giant Panda Token,Honeypot,ETH,
+1485,GreenLonMusk,Honeypot,ETH,
+1486,MarsBank,Honeypot,ETH,
+1487,Full Moon,Honeypot,ETH,
+1488,Time Dilation,Honeypot,BSC,
+1489,BitMusk,Honeypot,ETH,
+1490,Yolo Token,Honeypot,BSC,
+1491,Elon SpaceEX,Honeypot,ETH,
+1492,PURECOIN?,Honeypot,BSC,
+1493,Electric Car Tesla,Honeypot,ETH,
+1494,Moon Cat,Honeypot,ETH,
+1495,Aichi Inu,Honeypot,BSC,
+1496,Shiga Inu,Honeypot,BSC,
+1497,InfinityDoge,Honeypot,BSC,
+1498,Sienna Network,Honeypot,ETH,
+1499,Elon Musk Moon Token,Honeypot,ETH,
+1500,Big Chungus,Honeypot,ETH,
+1501,MEGAMOON,Honeypot,BSC,
+1502,BSCBOOM,Honeypot,BSC,
+1503,StackOS,Honeypot,ETH,
+1504,Slow Loris Token,Honeypot,BSC,
+1505,Puppy Token,Honeypot,ETH,
+1506,Psycho Inu,Honeypot,ETH,
+1507,Hord.App,Honeypot,ETH,
+1508,Jigstack.org,Honeypot,ETH,
+1509,Shibazilla,Honeypot,ETH,
+1510,CUMROCKET CRYPTO,Honeypot,BSC,
+1511,Treasure Box,Honeypot,ETH,
+1512,Quark,Honeypot,BSC,
+1513,ULTRADOGE,Honeypot,ETH,
+1514,Digital Reserve Currency,Honeypot,ETH,
+1515,Kitten.finance,Honeypot,ETH,
+1516,FairDoge,Honeypot,BSC,
+1517,JUMPFROG,Honeypot,BSC,
+1518,Puffins Paradise,Honeypot,ETH,
+1519,Snoop Doge,Honeypot,ETH,
+1520,SAFESHITCOIN,Honeypot,BSC,
+1521,eBITScan.finance,Honeypot,BSC,
+1522,PALM - yieldbay.finance,Honeypot,BSC,
+1523,GOLDMind.finance,Honeypot,BSC,
+1524,RocketDoge,Honeypot,BSC,
+1525,Chicken Soup Protocol,Honeypot,ETH,
+1526,Meme Coin,Honeypot,ETH,
+1527,Penguins Sanctuary,Honeypot,ETH,
+1528,Kleeka Inu,Honeypot,BSC,
+1529,Yuki Inu Token,Honeypot,ETH,
+1530,Dragon Li Token,Honeypot,ETH,
+1531,Poki Token,Honeypot,ETH,
+1532,doremiland.info,Honeypot,BSC,
+1533,JiX Swap,Honeypot,ETH,
+1534,Melalie,Honeypot,ETH,
+1535,Ergosphere,Honeypot,BSC,
+1536,Gorillaz Sunshine,Honeypot,ETH,
+1537,Gecko Token,Honeypot,ETH,
+1538,Fish Tank,Honeypot,ETH,
+1539,Crazy Kitty,Honeypot,ETH,
+1540,Busy,Honeypot,ETH,
+1541,MoonWhale,Honeypot,BSC,
+1542,MOONMARS,Honeypot,BSC,
+1543,Golden Goose Token,Honeypot,ETH,
+1544,Quantum Tunneling,Honeypot,BSC,
+1545,CUTECAT,Honeypot,BSC,
+1546,Refinable,Honeypot,ETH,
+1547,Benqi Finance,Honeypot,ETH,
+1548,moonpirate,Honeypot,BSC,
+1549,DogeDAO,Honeypot,BSC,
+1550,MOONINVADOR,Honeypot,BSC,
+1551,Rocket Inu,Honeypot,ETH,
+1552,Event Horizon,Honeypot,BSC,
+1553,Banshee Token,Honeypot,ETH,
+1554,Spitz Inu Token,Honeypot,ETH,
+1555,Golden Inu Token,Honeypot,ETH,
+1556,SafeRocket✨,Honeypot,BSC,
+1557,MOAR Finance,Honeypot,ETH,
+1558,Kyushu Inu,Honeypot,ETH,
+1559,Malamute Token,Honeypot,ETH,
+1560,MOMAFINANCE,Honeypot,BSC,
+1561,ASTIR,Honeypot,BSC,
+1562,Doge&amp;Shiba,Honeypot,BSC,
+1563,Yet Another Dog Coin,Honeypot,ETH,
+1564,WINE TOKEN,Honeypot,BSC,
+1565,AstroPig,Honeypot,BSC,
+1566,EAGLE,Honeypot,BSC,
+1567,SHIBAFARM,Honeypot,ETH,
+1568,CHINESE,Honeypot,BSC,
+1569,Chromance,Honeypot,BSC,
+1570,Whisky Token,Honeypot,BSC,
+1571,Windswap,Honeypot,BSC,
+1572,MoonKind,Honeypot,BSC,
+1573,FUCK ENVIRONMENT,Honeypot,BSC,
+1574,Up DeFi,Honeypot,ETH,
+1575,Glossify,Honeypot,BSC,
+1576,TRUMP 2024,Honeypot,BSC,
+1577,KingShiba,Honeypot,BSC,
+1578,SolarRocket,Honeypot,BSC,
+1579,Lucky Token,Honeypot,BSC,
+1580,DogeMissile,Honeypot,BSC,
+1581,NOZOMI,Honeypot,BSC,
+1582,DOORToken,Honeypot,BSC,
+1583,Shiba Inu Shih Tzu,Honeypot,BSC,
+1584,HungryWorldBSC,Honeypot,BSC,
+1585,Caterpie Finance,Honeypot,BSC,
+1586,t.me/DickBootyBSC,Honeypot,BSC,
+1587,Garfield Token,Honeypot,BSC,
+1588,SAD CAT,Honeypot,BSC,
+1589,SHINKY,Honeypot,BSC,
+1590,Bingo Inu,Honeypot,ETH,
+1591,Ether Shiba,Honeypot,ETH,
+1592,KingAkita,Honeypot,BSC,
+1593,t.me/astracoincommunity,Honeypot,BSC,
+1594,KNIGHT RIDER,Honeypot,BSC,
+1595,BEER COIN,Honeypot,BSC,
+1596,BITCOIN CONSUMPTION,Honeypot,BSC,
+1597,BEE TOKEN,Honeypot,BSC,
+1598,DOGE 2.0,Honeypot,BSC,
+1599,CVL,Honeypot,BSC,
+1600,SafeFarm,Honeypot,BSC,
+1601,SafeStorm,Honeypot,BSC,
+1602,CryptonDUCK,Honeypot,BSC,
+1603,KRYPTCOIN,Honeypot,BSC,
+1604,Deeper Network,Honeypot,BSC,
+1605,SAFELOAD,Honeypot,BSC,
+1606,birthday token,Honeypot,BSC,
+1607,Naturel,Exit Scam,BSC,
+1608,Cook Protocol,Honeypot,BSC,
+1609,SOLAR,Honeypot,BSC,
+1610,SWEETPAY,Honeypot,BSC,
+1611,Secret DeFi,Honeypot,ETH,
+1612,SAFEQCHAIN,Honeypot,BSC,
+1613,SAFEPURSE,Honeypot,BSC,
+1614,Zillow,Honeypot,BSC,
+1615,SAFEPICK,Honeypot,BSC,
+1616,SafeAmerica,Honeypot,BSC,
+1617,DoubleChain,Honeypot,BSC,
+1618,SHIBAMOON,Honeypot,BSC,
+1619,Mia Khalifa,Honeypot,BSC,
+1620,AlaskanDoge,Honeypot,BSC,
+1621,Winnie-the-Pot,Honeypot,BSC,
+1622,LABRADOR,Honeypot,BSC,
+1623,SpaceXDoge1,Honeypot,BSC,
+1624,QCHAIN,Honeypot,BSC,
+1625,HONEYROCKET,Honeypot,BSC,
+1626,SafeFire,Honeypot,BSC,
+1627,SafePipe,Honeypot,BSC,
+1628,Inu Doge,Honeypot,ETH,
+1629,BARK CUBAN,Honeypot,ETH,
+1630,JizzUs,Honeypot,BSC,
+1631,French Shiba,Honeypot,ETH,
+1632,SaveFlipper,Honeypot,BSC,
+1633,PIDGEY,Honeypot,BSC,
+1634,SafeDot,Honeypot,BSC,
+1635,Evergreen,Honeypot,BSC,
+1636,Solstarter,Honeypot,ETH,
+1637,MerchDAO,Honeypot,ETH,
+1638,SAFESATURN,Honeypot,BSC,
+1639,Kishu Doge Inu,Honeypot,ETH,
+1640,InjectiveProtocol,Honeypot,BSC,
+1641,victoriavr,Honeypot,BSC,
+1642,Binance Fail Chain,Honeypot,BSC,
+1643,LORD ELON,Honeypot,BSC,
+1644,Sponge Doge,Honeypot,ETH,
+1645,The Doge Hunter,Honeypot,ETH,
+1646,REAUFINANCE,Honeypot,BSC,
+1647,ElonGate,Honeypot,BSC,
+1648,CROT Finance,Honeypot,BSC,
+1649,XXXRated-NFT,Honeypot,BSC,
+1650,Peri Finance,Honeypot,BSC,
+1651,Puppy Inu,Honeypot,ETH,
+1652,SpaceX Boca Chica,Honeypot,ETH,
+1653,SafeVice,Honeypot,BSC,
+1654,LinkPool,Honeypot,ETH,
+1655,SAFEPAY,Honeypot,BSC,
+1656,MEGASAFE,Honeypot,BSC,
+1657,Tripod Dao,Honeypot,BSC,
+1658,PLUTOO,Honeypot,BSC,
+1659,Q DAO Governance token v2.0,Honeypot,BSC,
+1660,SafeMiles,Honeypot,BSC,
+1661,REFERRALPROJECT.NETWORK,Honeypot,BSC,
+1662,SAFESOFA,Honeypot,BSC,
+1663,SAFELINK,Honeypot,BSC,
+1664,SafeInfinity,Honeypot,BSC,
+1665,SafeGorilla,Honeypot,BSC,
+1666,SafeMask,Honeypot,BSC,
+1667,SafeSafu,Honeypot,BSC,
+1668,MoonCAKE Bsc,Honeypot,BSC,
+1669,SafeHelix,Honeypot,BSC,
+1670,SpaceDEFI,Honeypot,BSC,
+1671,AntiSafeToken,Honeypot,BSC,
+1672,AntiSafeToken,Honeypot,BSC,
+1673,DREAMSWAP,Honeypot,BSC,
+1674,KASHI,Honeypot,ETH,
+1675,SafeSun,Honeypot,BSC,
+1676,ADRENALINE.FINANCE,Honeypot,BSC,
+1677,SAFEYFI NETWORK,Honeypot,BSC,
+1678,SafeTorn,Honeypot,BSC,
+1679,SafeHubble,Honeypot,BSC,
+1680,SimpleExchange,Honeypot,BSC,
+1681,SafeShield,Honeypot,BSC,
+1682,SafeLien,Honeypot,BSC,
+1683,autosafe protocol,Honeypot,BSC,
+1684,autosafe,Honeypot,BSC,
+1685,EXEEDME.FINANCE,Honeypot,BSC,
+1686,SafeCell,Honeypot,BSC,
+1687,IZOOM.FINANCE,Honeypot,BSC,
+1688,External Swap,Honeypot,BSC,
+1689,SafePaid,Honeypot,BSC,
+1690,xrpmoon,Honeypot,BSC,
+1691,SafeStreetBets,Honeypot,BSC,
+1692,SafeSpice,Honeypot,BSC,
+1693,SafeUp,Honeypot,BSC,
+1694,SafeGate,Honeypot,BSC,
+1695,SafeWorld,Honeypot,BSC,
+1696,Plasm Network,Honeypot,ETH,
+1697,Asset Swap,Honeypot,BSC,
+1698,MoonDeFi,Honeypot,BSC,
+1699,SafeModd,Honeypot,BSC,
+1700,SafeSpeed,Honeypot,BSC,
+1701,SafeCloud,Honeypot,BSC,
+1702,MirrorFinance,Honeypot,BSC,
+1703,SafeComet,Honeypot,BSC,
+1704,Gundam Finance BSC,Honeypot,BSC,
+1705,unimex,Honeypot,BSC,
+1706,Rage.fan,Honeypot,ETH,
+1707,Worn.Finance,Honeypot,BSC,
+1708,BubbaGump,Honeypot,BSC,
+1709,SafeMcDc,Honeypot,BSC,
+1710,HARDOX PROTOCOL,Honeypot,BSC,
+1711,unidog bsc,Honeypot,BSC,
+1712,Polkamon.com,Honeypot,ETH,
+1713,HedgeDog BSC Finance,Honeypot,BSC,
+1714,SafeAndromeda,Honeypot,BSC,
+1715,sushibox,Honeypot,BSC,
+1716,SecureTheBag,Honeypot,BSC,
+1717,SpaceShip,Honeypot,BSC,
+1718,DeversiFi Token,Honeypot,ETH,
+1719,Lemond Protocol,Honeypot,BSC,
+1720,unibox,Honeypot,BSC,
+1721,Redshift,Honeypot,BSC,
+1722,SafeChain✨,Honeypot,BSC,
+1723,Safe Inu,Honeypot,ETH,
+1724,KISHU INU,Honeypot,BSC,
+1725,Singularity,Honeypot,BSC,
+1726,Blowfish Token,Honeypot,ETH,
+1727,Australian Safe Shepherd,Honeypot,ETH,
+1728,Payship.Finance,Honeypot,ETH,
+1729,Bulldog Token,Honeypot,ETH,
+1730,ChowChow Token,Honeypot,ETH,
+1731,Ursa Major,Honeypot,BSC,
+1732,MarsStop,Honeypot,BSC,
+1733,Rocket Dog,Honeypot,ETH,
+1734,Nova,Honeypot,BSC,
+1735,DirtyPig,Honeypot,BSC,
+1736,Papillon Token,Honeypot,ETH,
+1737,Moon Chow,Honeypot,ETH,
+1738,UNIDOG,Honeypot,ETH,
+1739,Pug Token,Honeypot,ETH,
+1740,Starshot,Honeypot,BSC,
+1741,Big Cheese Token,Honeypot,ETH,
+1742,Dehive.finance,Honeypot,ETH,
+1743,Xend.finance,Honeypot,ETH,
+1744,Coordinape,Honeypot,ETH,
+1745,Plethori,Honeypot,ETH,
+1746,unifarm.co,Honeypot,ETH,
+1747,Rocket Cat,Honeypot,ETH,
+1748,Comet,Honeypot,BSC,
+1749,Magnet Attraction,Honeypot,BSC,
+1750,Gorillaz Sanctuary,Honeypot,ETH,
+1751,Andromeda,Honeypot,BSC,
+1752,Moon Send,Honeypot,BSC,
+1753,Collapsar,Honeypot,BSC,
+1754,FireBunny,Honeypot,BSC,
+1755,Hound Token,Honeypot,ETH,
+1756,Dogzilla,Honeypot,ETH,
+1757,Gamma Ray Burst,Honeypot,BSC,
+1758,Asac Coin Finance Token,Honeypot,ETH,
+1759,Husky Token,Honeypot,ETH,
+1760,Lucky Charm,Honeypot,BSC,
+1761,Polkadomain Token,Honeypot,ETH,
+1762,Einstein Rosen Bridge,Honeypot,BSC,
+1763,Dragon Burn Token,Honeypot,BSC,
+1764,TeslaCoin,Honeypot,BSC,
+1765,DOGEUP 100X,Honeypot,BSC,
+1766,Snow,Honeypot,BSC,
+1767,Majestic Deer,Honeypot,BSC,
+1768,Golden Litchi Finance,Honeypot,BSC,
+1769,We Want a 1000XPump,Honeypot,BSC,
+1770,www.SafePussy.tech,Honeypot,BSC,
+1771,SAFESHIBA,Honeypot,BSC,
+1772,MOONCALENDA,Honeypot,BSC,
+1773,Disbalancer,Honeypot,ETH,
+1774,PigMOON,Honeypot,BSC,
+1775,CYCLOPS FINANCE TREASURE,Honeypot,ETH,
+1776,WinMoon Token,Honeypot,BSC,
+1777,Adastarter,Honeypot,ETH,
+1778,Lunar Eclipse,Honeypot,BSC,
+1779,Volcano,Honeypot,BSC,
+1780,SAFEBIRD,Honeypot,BSC,
+1781,Saito,Honeypot,ETH,
+1782,ApeOnly,Honeypot,ETH,
+1783,Mechadog,Honeypot,ETH,
+1784,MoonWait,Honeypot,BSC,
+1785,OccamFi,Honeypot,ETH,
+1786,MOONBERRY,Honeypot,BSC,
+1787,Mina Protocol,Honeypot,ETH,
+1788,BUHO TOKEN,Honeypot,BSC,
+1789,Icy Comet,Honeypot,BSC,
+1790,icecreamland.org,Honeypot,BSC,
+1791,HibikiTokyo,Honeypot,BSC,
+1792,Apron Network,Honeypot,ETH,
+1793,LURNA,Honeypot,BSC,
+1794,HellGate,Honeypot,BSC,
+1795,delta.theta,Honeypot,BSC,
+1796,Dogelon,Honeypot,BSC,
+1797,The Internet Computer,Honeypot,ETH,
+1798,Crot Finance,Honeypot,BSC,
+1799,NOZOMI COIN,Honeypot,BSC,
+1800,EchoX,Honeypot,BSC,
+1801,ChickenCoin,Honeypot,BSC,
+1802,HungryApes,Honeypot,BSC,
+1803,SafeShib,Honeypot,ETH,
+1804,Everest,Honeypot,BSC,
+1805,Kitty Token,Honeypot,ETH,
+1806,Gelato.network,Honeypot,ETH,
+1807,DOGE SNL,Honeypot,BSC,
+1808,SaintElon,Honeypot,BSC,
+1809,XSPACE,Honeypot,BSC,
+1810,MILEY&amp;MUSK,Honeypot,ETH,
+1811,Maple,Honeypot,BSC,
+1812,SaintElon,Honeypot,BSC,
+1813,Strike Protocol,Honeypot,BSC,
+1814,SafeGalaxy,Honeypot,BSC,
+1815,WAKANDATOKEN,Honeypot,BSC,
+1816,Mozik.cc,Honeypot,ETH,
+1817,Saturna,Honeypot,BSC,
+1818,Diamond Hands Elon,Honeypot,ETH,
+1819,LevelUpX,Honeypot,BSC,
+1820,ELON SNL,Honeypot,BSC,
+1821,VISERION,Honeypot,BSC,
+1822,INTERGALACTIC,Honeypot,BSC,
+1823,Meow Moon Cat,Honeypot,ETH,
+1824,Wilder World,Honeypot,ETH,
+1825,RUBYTOKEN,Honeypot,BSC,
+1826,Verifiably,Honeypot,BSC,
+1827,KingCZ,Honeypot,BSC,
+1828,Dragon.Swap,Honeypot,BSC,
+1829,TheCatToken.com,Honeypot,BSC,
+1830,ELON MOONSHIP,Honeypot,BSC,
+1831,Bulldoge,Honeypot,BSC,
+1832,Ispolink Token,Honeypot,ETH,
+1833,Oiler Network,Honeypot,ETH,
+1834,aardvarX,Honeypot,BSC,
+1835,Anchor Protocol,Honeypot,BSC,
+1836,CargoX,Honeypot,BSC,
+1837,MASKSWAP,Honeypot,BSC,
+1838,Rocket Doge,Honeypot,BSC,
+1839,Sienna (ERC20),Honeypot,ETH,
+1840,RocketElon,Honeypot,BSC,
+1841,MOON SURGE,Honeypot,BSC,
+1842,d-fund.io,Honeypot,ETH,
+1843,MoonVAPE,Honeypot,ETH,
+1844,Tokocrypto,Honeypot,ETH,
+1845,Wasder.gg,Honeypot,ETH,
+1846,Luminescence,Honeypot,BSC,
+1847,EternityProtcol,Honeypot,BSC,
+1848,Arbitrade,Honeypot,BSC,
+1849,HYDRA,Honeypot,BSC,
+1850,DogeWars,Honeypot,BSC,
+1851,GOOD BOY,Honeypot,BSC,
+1852,Starlink Mission Mars,Honeypot,ETH,
+1853,FLY,Honeypot,BSC,
+1854,Toxify,Honeypot,BSC,
+1855,ELON ORBIT,Honeypot,BSC,
+1856,SpaceShuttle,Honeypot,BSC,
+1857,Moon Lambo,Honeypot,ETH,
+1858,DEFIX,Honeypot,BSC,
+1859,kingofgame,Honeypot,BSC,
+1860,GREENTRUST,Honeypot,BSC,
+1861,TAXITOKEN,Honeypot,BSC,
+1862,Muskdoge,Honeypot,ETH,
+1863,TradeStars,Honeypot,ETH,
+1864,Falcon 9 SpaceX Token,Honeypot,ETH,
+1865,Skem.finance,Honeypot,ETH,
+1866,Mercurial Finance,Honeypot,ETH,
+1867,Elon Dark Web,Honeypot,ETH,
+1868,Infinity Protocol,Honeypot,ETH,
+1869,DeFiner,Honeypot,BSC,
+1870,Corgi Coin,Honeypot,ETH,
+1871,EARTHBOYS,Honeypot,BSC,
+1872,GREEN,Honeypot,BSC,
+1873,TheMountain,Honeypot,BSC,
+1874,Meebits,Honeypot,ETH,
+1875,SpaceX Network,Honeypot,ETH,
+1876,Tibetan Mastiff Protocol,Honeypot,ETH,
+1877,Toppu Inu,Honeypot,ETH,
+1878,Callisto Network,Honeypot,BSC,
+1879,Fundamenta,Honeypot,ETH,
+1880,NyanCat,Honeypot,BSC,
+1881,INFINITE SPACE,Honeypot,BSC,
+1882,INFINITE SPACE,Honeypot,BSC,
+1883,PAIRS,Honeypot,BSC,
+1884,PHOENIXTOKEN,Honeypot,BSC,
+1885,Rocket Man,Honeypot,BSC,
+1886,India Pale Ale,Honeypot,BSC,
+1887,Dfyn.Network,Honeypot,ETH,
+1888,PIethori,Honeypot,ETH,
+1889,Benefit Protocol,Honeypot,ETH,
+1890,LOCGame,Honeypot,ETH,
+1891,Mercurial.Finance,Honeypot,ETH,
+1892,BondAppetit,Honeypot,BSC,
+1893,TurboScalling,Honeypot,BSC,
+1894,SafeDelore3n,Honeypot,BSC,
+1895,SafeSound,Honeypot,BSC,
+1896,Stone Token,Honeypot,ETH,
+1897,dajal,Honeypot,BSC,
+1898,SafeShill,Honeypot,BSC,
+1899,Force Dao,Honeypot,ETH,
+1900,SAFEGUARD,Honeypot,BSC,
+1901,SafePegasus,Honeypot,BSC,
+1902,EssentialChain,Honeypot,BSC,
+1903,SafeShift,Honeypot,BSC,
+1904,HighQuality Swap,Honeypot,BSC,
+1905,SafeStarship,Honeypot,BSC,
+1906,AntiSocialClub,Honeypot,BSC,
+1907,SecurityLayer,Honeypot,BSC,
+1908,FULLSAFE,Honeypot,BSC,
+1909,REEF,Honeypot,BSC,
+1910,BurnMEW,Honeypot,BSC,
+1911,SafeAsteroid,Honeypot,BSC,
+1912,FINANCE,Honeypot,BSC,
+1913,OMNI,Honeypot,BSC,
+1914,NextGEN,Honeypot,BSC,
+1915,BlackHoleNetwork,Honeypot,BSC,
+1916,DoubleTRACE,Honeypot,BSC,
+1917,SafeSilent,Honeypot,BSC,
+1918,Critter Finance,Honeypot,BSC,
+1919,Safezone,Honeypot,BSC,
+1920,AntiSafeToken,Honeypot,BSC,
+1921,SAFEMOON,Honeypot,BSC,
+1922,Impulse,Honeypot,BSC,
+1923,MetaChain,Honeypot,BSC,
+1924,STONES Token,Honeypot,BSC,
+1925,SafeCow,Honeypot,BSC,
+1926,Tidal Token,Honeypot,BSC,
+1927,Tamagochi Finance,Honeypot,BSC,
+1928,BLOWNETWORK,Honeypot,BSC,
+1929,DipEater Token,Honeypot,BSC,
+1930,DoubleDEX,Honeypot,BSC,
+1931,Nintendo Protocol,Honeypot,BSC,
+1932,ADRENALINE.FINANCE,Honeypot,BSC,
+1933,RfiSPR,Honeypot,BSC,
+1934,TomCoin,Honeypot,BSC,
+1935,Convergence Protocol,Honeypot,ETH,
+1936,ApplePie,Honeypot,BSC,
+1937,Uniswap-V3,Honeypot,ETH,
+1938,Mina Protocol,Honeypot,ETH,
+1939,PROTOCOL PENA,Honeypot,BSC,
+1940,SafeSushi,Honeypot,BSC,
+1941,GEMCORE,Honeypot,BSC,
+1942,MOON FARM,Honeypot,BSC,
+1943,Hoge Finance v2,Honeypot,BSC,
+1944,Hoe Coin BSC,Honeypot,BSC,
+1945,Yield Goku Token,Honeypot,BSC,
+1946,Dextrarius Token,Honeypot,BSC,
+1947,Zillow,Honeypot,ETH,
+1948,Boson Protocol,Honeypot,ETH,
+1949,Stonedefi.io,Honeypot,ETH,
+1950,MinerClubHM,Honeypot,BSC,
+1951,Casper Network,Honeypot,ETH,
+1952,E=MCv2,Honeypot,BSC,
+1953,NFT Farm,Honeypot,BSC,
+1954,SonicSwap,Honeypot,BSC,
+1955,MPIG,Honeypot,BSC,
+1956,PepeDog,Honeypot,BSC,
+1957,CURLYPUFF,Honeypot,BSC,
+1958,Goku Token,Honeypot,BSC,
+1959,LamboPUMP,Honeypot,BSC,
+1960,Echelon DAO,Honeypot,BSC,
+1961,Turtledex Token,Exit Scam,BSC,
+1962,ONYX,Honeypot,BSC,
+1963,Beagle,Honeypot,BSC,
+1964,RFI Protocol,Honeypot,BSC,
+1965,ThenaMoon,Honeypot,BSC,
+1966,BSCcommunity,Honeypot,BSC,
+1967,ELONBLUZELLE,Honeypot,BSC,
+1968,SUNMOON,Honeypot,BSC,
+1969,Untouchable,Honeypot,BSC,
+1970,APEMOONv2,Honeypot,BSC,
+1971,Star Shot,Honeypot,BSC,
+1972,Milkyway,Honeypot,BSC,
+1973,Safe Nintendo,Honeypot,BSC,
+1974,Unstoppable,Honeypot,BSC,
+1975,fairy.finance,Honeypot,BSC,
+1976,lollipop,Honeypot,BSC,
+1977,FairCat,Honeypot,BSC,
+1978,Rainicorn,Honeypot,BSC,
+1979,MoonNaSa,Honeypot,BSC,
+1980,MoonDeFi,Honeypot,BSC,
+1981,SheepSwap.Finance,Exit Scam,BSC,
+1982,Elon Protocol,Honeypot,BSC,
+1983,Shyft Network,Honeypot,ETH,
+1984,Tidal Finance,Honeypot,ETH,
+1985,BrunoMars,Honeypot,BSC,
+1986,Lepricon,Honeypot,ETH,
+1987,SafePancake,Honeypot,BSC,
+1988,Oddz Finance,Honeypot,BSC,
+1989,Dafi Protocol,Honeypot,ETH,
+1990,MHP88,Honeypot,BSC,
+1991,MOON WEED,Honeypot,BSC,
+1992,Icecream,Honeypot,BSC,
+1993,SafePizza,Honeypot,BSC,
+1994,NFTMarketplace,Honeypot,BSC,
+1995,STRONGMARS,Honeypot,BSC,
+1996,PegasusCoin,Honeypot,BSC,
+1997,Goku,Honeypot,BSC,
+1998,ProStarter,Honeypot,ETH,
+1999,TAXIfinance,Honeypot,BSC,
+2000,BLUEHYPER,Honeypot,BSC,
+2001,safeape,Honeypot,ETH,
+2002,Safe-inu,Honeypot,ETH,
+2003,lightningshib.com,Honeypot,ETH,
+2004,VeChain,Honeypot,BSC,
+2005,frozenolaf.com,Honeypot,ETH,
+2006,Scaleswap,Honeypot,ETH,
+2007,Whackd,Honeypot,ETH,
+2008,Baby Doge Coin,Honeypot,ETH,
+2009,Efinity Token,Honeypot,ETH,
+2010,AurataGoldCat,Honeypot,BSC,
+2011,SlimShady,Honeypot,BSC,
+2012,Shiba King,Honeypot,BSC,04.10.2021
+2013,BlockVest,Honeypot,ETH,04.10.2021
+2014,Blockchain Terminal Token,Honeypot,ETH,04.10.2021
+2015,Qubicle,Honeypot,ETH,04.10.2021
+2016,ABTC,Honeypot,ETH,04.10.2021
+2017,ACO,Honeypot,ETH,04.10.2021
+2018,BlockChain of Things,Exit Scam,ETH,04.10.2021
+2019,Coinseed Token,Honeypot,ETH,04.10.2021
+2020,RGL,Exit Scam,ETH,04.10.2021
+2021,bitqyM,Exit Scam,ETH,
+2022,Bitcoiin,Exit Scam,ETH,
+2023,OpportyToken,Exit Scam,ETH,04.10.2021
+2024,Fantasy Market Token,Exit Scam,ETH,
+2025,Boon Tech,Exit Scam,ETH,04.10.2021
+2026,DEFIstreetbets,Honeypot,BSC,
+2027,MEMEKiller,Honeypot,BSC,04.10.2021
+2028,DAOstreetbets,Honeypot,BSC,04.10.2021
+2029,Alchemist,Honeypot,BSC,04.10.2021
+2030,AK47,Honeypot,BSC,
+2031,HI-DeF Swap,Honeypot,BSC,
+2032,Berry Swap,Honeypot,BSC,04.10.2021
+2033,xMINT BSC,Honeypot,BSC,04.10.2021
+2034,WizzardSwap,Honeypot,BSC,04.10.2021
+2035,RobotSwap,Honeypot,BSC,
+2036,OxSocks,Honeypot,BSC,
+2037,NinjaPants,Honeypot,BSC,
+2038,Safari.Yield Finance,Honeypot,BSC,04.10.2021
+2039,PepeSocks,Honeypot,BSC,
+2040,Slime.Finance,Honeypot,BSC,29.09.2021
+2041,Dark.Build,Honeypot,BSC,29.09.2021
+2042,Lizard finance,Honeypot,BSC,29.09.2021
+2043,DoggySwap,Honeypot,BSC,29.09.2021
+2044,RapidSwap,Honeypot,BSC,29.09.2021
+2045,Channels,Honeypot,BSC,
+2046,GAMESTOP,Honeypot,BSC,29.09.2021
+2047,Paint,Honeypot,BSC,29.09.2021
+2048,DiamondBalls,Honeypot,BSC,29.09.2021
+2049,Kylin Network,Honeypot,ETH,21.09.2021
+2050,PepsiSwap,Honeypot,BSC,
+2051,InfinitySwap,Honeypot,BSC,21.09.2021
+2052,PROJECTX,Honeypot,BSC,21.09.2021
+2053,YodaCoin,Honeypot,BSC,
+2054,BIGBLACKDICK,Honeypot,BSC,
+2055,ShibaSwap,Honeypot,BSC,21.09.2021
+2056,Mask.io,Honeypot,ETH,21.09.2021
+2057,GodzillaFinance,Honeypot,BSC,
+2058,CHINASWAP,Honeypot,BSC,
+2059,KodakSwap,Honeypot,BSC,
+2060,PussySwap,Honeypot,BSC,
+2061,sixpackfinance.org,Honeypot,BSC,21.09.2021
+2062,CostcoSwap,Honeypot,BSC,
+2063,SexySwap,Honeypot,BSC,
+2064,FREEPARKING,Honeypot,BSC,
+2065,ShareDeFi Protocol,Honeypot,BSC,21.09.2021
+2066,JumanjiSwap,Honeypot,BSC,21.09.2021
+2067,Playcent,Honeypot,BSC,21.09.2021
+2068,SteadyGainz,Honeypot,BSC,
+2069,SilentSwap.Finance,Honeypot,BSC,21.09.2021
+2070,ToySwap.Finance,Honeypot,BSC,
+2071,MEDUZA TOKEN,Honeypot,BSC,21.09.2021
+2072,Bee-Swap.org,Honeypot,BSC,21.09.2021
+2073,YCoin,Honeypot,BSC,
+2074,CaliSwap,Honeypot,BSC,
+2075,MoonFintech,Honeypot,BSC,
+2076,Gate Finance,Honeypot,BSC,21.09.2021
+2077,CSSWAP,Honeypot,BSC,21.09.2021
+2078,Raydium Protocol,Honeypot,BSC,21.09.2021
+2079,Dark Comics NFT,Honeypot,ETH,
+2080,VibeSwap,Honeypot,BSC,20.09.2021
+2081,Photosynthesis,Honeypot,BSC,
+2082,ZELDASWAP,Honeypot,BSC,
+2083,BubbleSwap,Honeypot,BSC,
+2084,dorgDAO,Honeypot,BSC,20.09.2021
+2085,WARONRUGS,Honeypot,BSC,20.09.2021
+2086,shadownite.com,Honeypot,BSC,
+2087,Rocket Vault,Honeypot,ETH,20.09.2021
+2088,PicaMoon,Honeypot,BSC,
+2089,GangBang,Honeypot,BSC,
+2090,SAFEBORN,Honeypot,BSC,
+2091,ROCKETSHOT,Honeypot,BSC,
+2092,Deflagration,Honeypot,BSC,
+2093,Telcoin,Honeypot,BSC,20.09.2021
+2094,MoonGold,Honeypot,BSC,20.09.2021
+2095,MarsHistory,Honeypot,BSC,
+2096,DATAMOON,Honeypot,BSC,
+2097,MoonRoad,Honeypot,BSC,
+2098,HappyMoon,Honeypot,BSC,20.09.2021
+2099,SAFEGOLD,Honeypot,BSC,20.09.2021
+2100,SafeLuxury,Honeypot,BSC,
+2101,MOONMOON,Honeypot,BSC,20.09.2021
+2102,SafePlatinum,Honeypot,BSC,
+2103,Franklin,Honeypot,ETH,20.09.2021
+2104,ProtonFinance,Honeypot,BSC,20.09.2021
+2105,SafeGasfees,Honeypot,BSC,
+2106,Fairmoon,Honeypot,BSC,20.09.2021
+2107,YES Token,Honeypot,BSC,20.09.2021
+2108,Uga Uga,Honeypot,BSC,
+2109,Rao Token,Honeypot,ETH,20.09.2021
+2110,SuperTesla,Honeypot,BSC,
+2111,FairMoonElon,Honeypot,BSC,20.09.2021
+2112,KINGMARS,Honeypot,BSC,
+2113,Beyond Finance,Honeypot,ETH,20.09.2021
+2114,Flamingo Boys,Honeypot,ETH,20.09.2021
+2115,DRACULA PROJECT,Honeypot,BSC,20.09.2021
+2116,Tequila,Honeypot,BSC,
+2117,Moon Rat Token,Honeypot,BSC,20.09.2021
+2118,BRONZE MOON,Honeypot,BSC,
+2119,Meteor,Honeypot,BSC,
+2120,JetCombat,Honeypot,BSC,
+2121,Flashbots Token,Honeypot,ETH,
+2122,Dopex Governance Token,Honeypot,ETH,14.09.2021
+2123,Karma,Honeypot,BSC,14.09.2021
+2124,Polkasol,Honeypot,ETH,14.09.2021
+2125,1 Million Token,Honeypot,BSC,14.09.2021
+2126,Maelstrom,Honeypot,BSC,14.09.2021
+2127,darwin.finance,Honeypot,ETH,14.09.2021
+2128,Enceladus,Honeypot,BSC,14.09.2021
+2129,Elon Musk Fomo,Honeypot,BSC,
+2130,Bichon,Honeypot,BSC,14.09.2021
+2131,MickeyMars,Honeypot,BSC,
+2132,MoonQueen,Honeypot,BSC,14.09.2021
+2133,Glacier,Honeypot,BSC,
+2134,HYPERIONMOON,Honeypot,BSC,14.09.2021
+2135,SAFE CHARIZARD,Honeypot,BSC,14.09.2021
+2136,Bongo Cat,Honeypot,BSC,14.09.2021
+2137,CaptainJackFans,Honeypot,BSC,14.09.2021
+2138,Space Raven,Honeypot,ETH,
+2139,TITANMOON,Honeypot,BSC,13.09.2021
+2140,SAFEDUCK,Honeypot,BSC,
+2141,MOONSEASON,Honeypot,BSC,
+2142,RAMBBO Finance,Honeypot,BSC,13.09.2021
+2143,EasyFinance,Honeypot,BSC,13.09.2021
+2144,MoonElevator,Honeypot,BSC,
+2145,MOONTOKEN,Honeypot,BSC,
+2146,simpsonsidlegame,Honeypot,BSC,
+2147,StarCat,Honeypot,BSC,
+2148,SUPPLYSWAP,Honeypot,BSC,
+2149,SafeCheese,Honeypot,BSC,
+2150,LegendaryDOGE,Honeypot,BSC,
+2151,SafeCookie,Honeypot,BSC,
+2152,BSCView,Honeypot,BSC,
+2153,TWILIGHT,Honeypot,BSC,
+2154,otmproject,Honeypot,BSC,
+2155,ApeShiba,Honeypot,BSC,
+2156,Zombie Swap,Honeypot,BSC,
+2157,ECOMI,Honeypot,BSC,
+2158,EIFEL.Finance,Honeypot,BSC,
+2159,BenzSwap,Honeypot,BSC,
+2160,Pro Coin,Exit Scam,BSC,
+2161,Moozicore,Exit Scam,ETH,
+2162,Munchee Token,Exit Scam,ETH,
+2163,Oyster Akoya,Exit Scam,ETH,
+2164,MOONRIKVIP,Honeypot,BSC,
+2165,GoldCoin,Honeypot,BSC,
+2166,GoldMoon,Honeypot,BSC,
+2167,SafeJoker,Honeypot,BSC,
+2168,ciao.finance,Honeypot,BSC,
+2169,Snowflake,Honeypot,BSC,
+2170,EUROTRIP,Honeypot,BSC,
+2171,XTRA Protocol,Honeypot,ETH,
+2172,Garbage Disposal,Honeypot,BSC,
+2173,MoonFox,Honeypot,BSC,
+2174,beans.farm,Honeypot,BSC,
+2175,SafeTechnology,Honeypot,BSC,
+2176,SAFEFOOD,Honeypot,BSC,
+2177,BattlePets,Honeypot,BSC,
+2178,Free Britney,Honeypot,BSC,
+2179,MOONROCKET,Honeypot,BSC,
+2180,BABYLITE,Honeypot,BSC,
+2181,SHEESH,Honeypot,BSC,
+2182,DIAMOND DOGE,Honeypot,BSC,
+2183,ShibaBurn,Honeypot,BSC,
+2184,DOREMON INU,Honeypot,BSC,
+2185,BLESS AMERICA,Honeypot,BSC,
+2186,Baby Doge Moon,Honeypot,BSC,
+2187,BABY PIG INU,Honeypot,BSC,
+2188,SpaceXMoon,Honeypot,BSC,
+2189,CatBread,Honeypot,BSC,
+2190,Kishu Inu,Honeypot,BSC,
+2191,MaxGoatToken,Honeypot,BSC,
+2192,King Of The North Coin,Honeypot,BSC,
+2193,PenNFT,Honeypot,BSC,
+2194,BabyElonDoo,Honeypot,BSC,
+2195,Diamond hand,Honeypot,BSC,
+2196,Katana,Honeypot,BSC,
+2197,BSCSportsBet,Honeypot,BSC,
+2198,DogeMilf,Honeypot,BSC,
+2199,Safe Litecoin,Honeypot,BSC,
+2200,Ape Inn,Honeypot,BSC,
+2201,MorningStar Dream,Honeypot,BSC,
+2202,UNITYtoken,Honeypot,BSC,08.09.2021
+2203,Step.finance,Honeypot,ETH,08.09.2021
+2204,Constellation,Honeypot,BSC,08.09.2021
+2205,ElonProtocol,Honeypot,BSC,08.09.2021
+2206,SafeBinance,Honeypot,BSC,08.09.2021
+2207,Milky Way,Honeypot,BSC,08.09.2021
+2208,FairSatoshi,Honeypot,BSC,
+2209,Turtle In Space,Honeypot,BSC,
+2210,SafeCash,Honeypot,BSC,08.09.2021
+2211,FairRocket,Honeypot,BSC,08.09.2021
+2212,StrongCroac,Honeypot,BSC,
+2213,Cassiopeia,Honeypot,BSC,
+2214,SafeWaifu,Honeypot,BSC,
+2215,FairElon,Honeypot,BSC,
+2216,SafeCompound,Honeypot,BSC,02.09.2021
+2217,element.fi,Honeypot,ETH,02.09.2021
+2218,Symbol,Honeypot,BSC,02.09.2021
+2219,Palm.io,Honeypot,ETH,02.09.2021
+2220,Toko Token,Honeypot,BSC,02.09.2021
+2221,Orion,Honeypot,BSC,02.09.2021
+2222,Goldfinch Finance,Honeypot,ETH,02.09.2021
+2223,Gains Associates,Honeypot,ETH,02.09.2021
+2224,Helios Project,Honeypot,BSC,02.09.2021
+2225,PotionBrew.net,Honeypot,BSC,02.09.2021
+2226,Findora,Honeypot,ETH,02.09.2021
+2227,Pulse,Honeypot,BSC,02.09.2021
+2228,SafeAtmosphere,Honeypot,BSC,
+2229,SHINGEKINOTOKEN,Honeypot,BSC,02.09.2021
+2230,KitKat,Honeypot,BSC,02.09.2021
+2231,ElonTech,Honeypot,BSC,02.09.2021
+2232,Interstellar,Honeypot,BSC,02.09.2021
+2233,TigerSwap,Honeypot,ETH,02.09.2021
+2234,Neutron Network,Honeypot,BSC,02.09.2021
+2235,y.at,Honeypot,ETH,
+2236,FORCE,Honeypot,ETH,
+2237,Xcademy Token,Honeypot,ETH,02.09.2021
+2238,CUATROtoken,Honeypot,BSC,
+2239,SuperSwap,Honeypot,ETH,02.09.2021
+2240,Iced Tea Token,Honeypot,BSC,
+2241,HiBNB,Honeypot,BSC,
+2242,Totoro,Honeypot,BSC,
+2243,AI Farm,Honeypot,BSC,
+2244,Kattana Trade,Honeypot,ETH,02.09.2021
+2245,LARP,Exit Scam,ETH,
+2246,Sashimi swap,Exit Scam,POLYGON,31.08.2021
+2247,RooSwap,Exit Scam,BSC,31.08.2021
+2248,Aubergine Farm,Exit Scam,BSC,
+2249,LanternSwap,Exit Scam,POLYGON,31.08.2021
+2250,PitbullSwap,Exit Scam,BSC,31.08.2021
+2251,XAN Swap,Exit Scam,POLYGON,31.08.2021
+2252,Starfall Finance,Exit Scam,BSC,31.08.2021
+2253,PolySphere,Exit Scam,POLYGON,31.08.2021
+2254,Hawk Finance,Exit Scam,POLYGON,31.08.2021
+2255,PolyHorse Finance,Exit Scam,POLYGON,31.08.2021
+2256,Hamster Farm,Exit Scam,POLYGON,31.08.2021
+2257,LayerFarm,Exit Scam,POLYGON,31.08.2021
+2258,koroswap finance,Exit Scam,BSC,31.08.2021
+2259,DonaldSwap,Exit Scam,BSC,31.08.2021
+2260,Flamingo Lagoon,Exit Scam,POLYGON,31.08.2021
+2261,NutPie,Exit Scam,BSC,31.08.2021
+2262,WeedSwap,Exit Scam,POLYGON,31.08.2021
+2263,MewMegaX Token,Exit Scam,BSC,31.08.2021
+2264,Cat.Moji Swap,Exit Scam,BSC,31.08.2021
+2265,rabbitfarm.finance,Exit Scam,BSC,31.08.2021
+2266,RoboBuddy,Exit Scam,BSC,31.08.2021
+2267,Mew,Exit Scam,BSC,31.08.2021
+2268,Mew Two,Exit Scam,BSC,31.08.2021
+2269,Farm Ninja,Exit Scam,POLYGON,31.08.2021
+2270,Cupcake Defi,Exit Scam,BSC,31.08.2021
+2271,Gameboy Finance,Exit Scam,POLYGON,31.08.2021
+2272,PuffinSwap,Exit Scam,BSC,31.08.2021
+2273,Secura Finance,Exit Scam,BSC,31.08.2021
+2274,Hammy Finance,Exit Scam,BSC,31.08.2021
+2275,Hamster Swap,Exit Scam,BSC,31.08.2021
+2276,PolyMiner,Exit Scam,POLYGON,31.08.2021
+2277,PolyMinecraft,Exit Scam,POLYGON,31.08.2021
+2278,NoMoreDogs,Exit Scam,BSC,31.08.2021
+2279,JoeBiden Finance,Exit Scam,KuCoin,
+2280,DonutDeFi,Exit Scam,BSC,31.08.2021
+2281,KuCat Finance,Exit Scam,KuCoin,
+2282,Predator Swap,Exit Scam,BSC,31.08.2021
+2283,Ailuropodinae,Exit Scam,BSC,31.08.2021
+2284,UNIRON Finance,Exit Scam,FANTOM,
+2285,PolyCloud,Exit Scam,POLYGON,30.08.2021
+2286,PolyGorilla,Exit Scam,POLYGON,30.08.2021
+2287,PolyGarden,Exit Scam,POLYGON,30.08.2021
+2288,Night Wolf,Exit Scam,BSC,30.08.2021
+2289,Himalaya,Honeypot,BSC,13.09.2021
+2290,Dragon Farm,Honeypot,ETH,13.09.2021
+2291,Xerex Decentralizing,Honeypot,ETH,
+2292,Matterhorn,Honeypot,BSC,13.09.2021
+2293,SAFEORACLE,Honeypot,BSC,
+2294,FractionalArt,Honeypot,ETH,13.09.2021
+2295,MoonBanana,Honeypot,BSC,
+2296,MOONSUN,Honeypot,BSC,
+2297,Alphr.Finance,Honeypot,ETH,13.09.2021
+2298,EPNS Token,Honeypot,ETH,13.09.2021
+2299,Polkadex,Honeypot,ETH,13.09.2021
+2300,HEROMOON,Honeypot,BSC,
+2301,PLANET,Honeypot,ETH,13.09.2021
+2302,Genesis Shards,Honeypot,ETH,13.09.2021
+2303,MoonDog,Honeypot,BSC,13.09.2021
+2304,YellowRoad,Honeypot,ETH,13.09.2021
+2305,Zion,Honeypot,BSC,13.09.2021
+2306,ORAO Network,Honeypot,ETH,13.09.2021
+2307,eGRID,Honeypot,BSC,
+2308,Koala Forest,Honeypot,ETH,13.09.2021
+2309,Blockchain Kittens,Honeypot,ETH,
+2310,Treasure Chest,Honeypot,ETH,13.09.2021
+2311,World of Winners,Honeypot,ETH,13.09.2021
+2312,SupremeBSCmoon,Honeypot,BSC,10.09.2021
+2313,Party Token,Honeypot,ETH,
+2314,Horny Farm,Honeypot,ETH,10.09.2021
+2315,Space Typhoon,Honeypot,BSC,
+2316,Pandora Box,Honeypot,ETH,
+2317,PiggyBank Community Token,Honeypot,ETH,10.09.2021
+2318,FairSafeApe,Honeypot,BSC,10.09.2021
+2319,SAFEMOUSE,Honeypot,BSC,
+2320,Planet Nine,Honeypot,BSC,
+2321,GODZILLA,Honeypot,BSC,10.09.2021
+2322,MarkMineCoin,Honeypot,BSC,
+2323,vsafinance.com,Exit Scam,ETH,
+2324,VSJEFF FIGHT,Exit Scam,BSC,
+2325,PePe Coin,Exit Scam,BSC,10.09.2021
+2326,RockHard,Honeypot,BSC,
+2327,Ebuy Finance,Honeypot,BSC,
+2328,StaticFire,Honeypot,BSC,10.09.2021
+2329,DonaldPump,Honeypot,BSC,10.09.2021
+2330,Torio,Honeypot,BSC,
+2331,ElonSperm,Honeypot,BSC,10.09.2021
+2332,Foxydoge,Honeypot,BSC,10.09.2021
+2333,ElonDoge,Honeypot,BSC,10.09.2021
+2334,NFTChange Token,Honeypot,BSC,
+2335,Blue Lightning,Honeypot,BSC,10.09.2021
+2336,Shelter,Honeypot,BSC,
+2337,DoubtFire,Honeypot,BSC,
+2338,DragonFinance10000x,Honeypot,BSC,10.09.2021
+2339,MentalHealth,Honeypot,BSC,10.09.2021
+2340,Pitbull Classic,Honeypot,BSC,10.09.2021
+2341,Centra,Exit Scam,ETH,10.09.2021
+2342,EOS,Exit Scam,ETH,10.09.2021
+2343,Bezop,Exit Scam,ETH,10.09.2021
+2344,Wazir Farm,Honeypot,ETH,10.09.2021
+2345,NftFinal,Honeypot,BSC,
+2346,Betelgeuse,Honeypot,BSC,
+2347,MechaGodzilla,Honeypot,BSC,10.09.2021
+2348,BirdSwap,Honeypot,ETH,10.09.2021
+2349,Kattana,Honeypot,ETH,10.09.2021
+2350,Arsenal FC Fan Token,Honeypot,BSC,10.09.2021
+2351,BSCx500,Honeypot,BSC,09.09.2021
+2352,SafeCoinToken,Honeypot,BSC,09.09.2021
+2353,AntiWOR,Honeypot,BSC,
+2354,Alpha Andromedae,Honeypot,BSC,09.09.2021
+2355,SafeDream,Honeypot,BSC,09.09.2021
+2356,FLEX,Honeypot,BSC,09.09.2021
+2357,MoonSafebank,Honeypot,BSC,09.09.2021
+2358,Dolphins Paradise Token,Honeypot,ETH,
+2359,Supernova,Honeypot,BSC,09.09.2021
+2360,Sunset,Honeypot,BSC,
+2361,FAPE,Honeypot,BSC,
+2362,Southern Cross,Honeypot,BSC,
+2363,Crowny.io,Honeypot,ETH,09.09.2021
+2364,MoonTerra,Honeypot,BSC,09.09.2021
+2365,Safe Gravity,Honeypot,BSC,
+2366,Clover.finance,Honeypot,ETH,09.09.2021
+2367,SolaSystem,Honeypot,ETH,09.09.2021
+2368,Safe Planet 9,Honeypot,BSC,09.09.2021
+2369,JUSTMOON,Honeypot,BSC,09.09.2021
+2370,Quagmire,Honeypot,BSC,
+2371,FairPluto,Honeypot,BSC,
+2372,MoonPilot,Honeypot,BSC,09.09.2021
+2373,Yoda Token,Honeypot,BSC,09.09.2021
+2374,geckoswap.finance,Honeypot,BSC,09.09.2021
+2375,Setting Sun,Honeypot,BSC,09.09.2021
+2376,Voltage,Honeypot,BSC,
+2377,APEMARS Token,Honeypot,BSC,09.09.2021
+2378,AVG1000X,Honeypot,BSC,
+2379,MoonPlan,Honeypot,BSC,
+2380,Eclipse,Honeypot,BSC,09.09.2021
+2381,GAMEE,Honeypot,ETH,09.09.2021
+2382,HOGtoken,Honeypot,BSC,09.09.2021
+2383,Genix.finance,Honeypot,BSC,09.09.2021
+2384,Fair Prison,Honeypot,BSC,
+2385,TeamRocket,Honeypot,BSC,09.09.2021
+2386,Duke Nukem,Honeypot,BSC,09.09.2021
+2387,Shining Star,Honeypot,BSC,09.09.2021
+2388,BEZEL Token,Honeypot,BSC,
+2389,Safe Fortune,Honeypot,BSC,09.09.2021
+2390,Avengers NFT,Honeypot,ETH,09.09.2021
+2391,Chihuahua Taco,Honeypot,BSC,08.09.2021
+2392,Hurricane,Honeypot,BSC,08.09.2021
+2393,FairVenus,Honeypot,BSC,08.09.2021
+2394,JUGtoken,Honeypot,BSC,
+2395,Kong Coin,Honeypot,BSC,08.09.2021
+2396,Safe Jail,Honeypot,BSC,
+2397,Aragorn,Honeypot,BSC,08.09.2021
+2398,FairETH,Honeypot,BSC,08.09.2021
+2399,FairComet,Honeypot,BSC,
+2400,Red Rose Finance,Exit Scam,BSC,15.08.2021
+2401,0xNinja,Exit Scam,POLYGON,14.08.2021
+2402,Rimau Finance,Exit Scam,BSC,12.08.2021
+2403,Happy Frog Finance,Exit Scam,BSC,12.08.2021
+2404,VIVAToken,Exit Scam,BSC,09.08.2021
+2405,Photon-Swap,Exit Scam,BSC,08.08.2021
+2406,PolyMind,Exit Scam,POLYGON,11.08.2021
+2407,BeaverSwap.finance,Exit Scam,BSC,08.08.2021
+2408,Yoshi Defi,Exit Scam,POLYGON,10.08.2021
+2409,Planetswap Uranus,Exit Scam,POLYGON,05.08.2021
+2410,Corgi Finance,Exit Scam,POLYGON,03.08.2021
+2411,YFARM,Exit Scam,ETH,14.08.2021
+2412,Pirate Farm,Exit Scam,BSC,16.08.2021
+2413,Iron Finance (2),Bank Run,POLYGON,16.06.2021
+2414,Polysafemoon,Exit Scam,POLYGON,03.09.2021
+2415,Pikachu Swap,Exit Scam,ETH,03.09.2021
+2416,Fire Swap,Exit Scam,BSC,03.09.2021
+2417,PolyApe Token,Exit Scam,POLYGON,03.09.2021
+2418,Golden Bar Farm,Exit Scam,BSC,03.09.2021
+2419,Fisherman Finance,Exit Scam,BSC,03.09.2021
+2420,Stonks Token,Exit Scam,BSC,03.09.2021
+2421,Rapture,Exit Scam,POLYGON,03.09.2021
+2422,BabyCakeGold,Exit Scam,BSC,03.09.2021
+2423,Sigma,Exit Scam,POLYGON,03.09.2021
+2424,White Moon Finance,Exit Scam,BSC,06.09.2021
+2425,TreeToken,Exit Scam,POLYGON,06.09.2021
+2426,HarvestLock,Exit Scam,BSC,06.09.2021
+2427,Red Eagle Token,Exit Scam,BSC,06.09.2021
+2428,Cheetah Token,Exit Scam,POLYGON,06.09.2021
+2429,PolyGoose Token,Exit Scam,POLYGON,06.09.2021
+2430,Euro Token,Exit Scam,POLYGON,06.09.2021
+2431,Valorant Finance,Exit Scam,BSC,06.09.2021
+2432,BeastMode Token,Exit Scam,BSC,06.09.2021
+2433,Swaaaaap.com,Exit Scam,BSC,06.09.2021
+2434,White Moon Finance,Exit Scam,BSC,07.09.2021
+2435,MoneyTreeFarm,Exit Scam,POLYGON,07.09.2021
+2436,Gold Finance,Exit Scam,BSC,10.09.2021
+2437,TrollFace,Exit Scam,BSC,13.09.2021
+2438,GulliFinance,Exit Scam,POLYGON,15.09.2021
+2439,Earth DeFi Avalanche,Exit Scam,AVAX,15.09.2021
+2440,BloodySwap,Exit Scam,POLYGON,15.09.2021
+2441,MikuMilk Finance,Exit Scam,AVAX,16.09.2021
+2442,GullFinance Token,Exit Scam,POLYGON,16.09.2021
+2443,INTERSWAP,Exit Scam,BSC,20.09.2021
+2444,PenginFinance Token,Exit Scam,BSC,20.09.2021
+2445,PlugToken,Exit Scam,POLYGON,20.09.2021
+2446,CoffeeSwap Arbitrum,Exit Scam,ETH,22.09.2021
+2447,PolyHomerToken,Exit Scam,POLYGON,27.09.2021
+2448,PolyMountain,Exit Scam,POLYGON,27.09.2021
+2449,MagicToken,Exit Scam,FANTOM,28.09.2021
+2450,PolyGladiatorToken,Exit Scam,POLYGON,29.09.2021
+2451,ChocSwap.finance,Exit Scam,BSC,30.09.2021
+2452,cArbFarm,Exit Scam,ETH,30.09.2021
+2453,Hallowenswap,Exit Scam,POLYGON,01.10.2021
+2454,PolarBearToken,Exit Scam,POLYGON,06.10.2021
+2455,BEESwap,Exit Scam,BSC,30.08.2021
+2456,Symmetry.Markets,Exit Scam,BSC,06.10.2021
+2457,Polywater,Exit Scam,POLYGON,30.08.2021
+2458,PolyRainbowToken,Exit Scam,POLYGON,07.10.2021
+2459,Astro Bunny Finance,Exit Scam,POLYGON,30.08.2021
+2460,OneCoin,Exit Scam,,07.03.2016
+2461,Helios.Cash,Exit Scam,POLYGON,30.08.2021
+2462,LionKingToken,Exit Scam,FANTOM,11.10.2021
+2463,Panda Matic,Exit Scam,POLYGON,30.08.2021
+2464,AwakenedToken,Exit Scam,FANTOM,11.10.2021
+2465,Jester DeFi,Exit Scam,BSC,30.08.2021
+2466,Polyrock Finance,Exit Scam,POLYGON,09.10.2021
+2467,RabbitSwap Finance,Exit Scam,BSC,30.08.2021
+2468,SaturnBeam,Exit Scam,ETH,10.10.2021
+2469,LavaSwap,Exit Scam,BSC,30.08.2021
+2470,Daughter Doge Revenge Token,Exit Scam,BSC,12.10.2021
+2471,FlokiFarmToken,Exit Scam,FANTOM,18.10.2021
+2472,OVNI Finance,Exit Scam,BSC,30.08.2021
+2473,Mystery,Exit Scam,FANTOM,18.10.2021
+2474,Hippolygon,Exit Scam,POLYGON,30.08.2021
+2475,Hotdog Cart Finance,Exit Scam,BSC,30.08.2021
+2476,UNIYSWAP,Exit Scam,ETH,19.10.2021
+2477,Frog Farm,Exit Scam,BSC,30.08.2021
+2478,BreadSwap,Exit Scam,BSC,30.08.2021
+2479,NekoCat,Exit Scam,BSC,30.08.2021
+2480,The Apollo Project,Exit Scam,BSC,30.08.2021
+2481,Lamp Finance,Exit Scam,BSC,30.08.2021
+2482,Cream Finance,Exploit,ETH,17.03.2021
+2483,Hydra Blazar,Exit Scam,POLYGON,
+2484,Royalflush Farm,Exit Scam,POLYGON,30.08.2021
+2485,PolyYield,Exit Scam,POLYGON,30.08.2021
+2486,Poohswap,Exit Scam,BSC,30.08.2021
+2487,CarolinaReaper Finance,Exit Scam,BSC,30.08.2021
+2488,CatgeSwap,Exit Scam,BSC,30.08.2021
+2489,BBQ Swap,Exit Scam,BSC,30.08.2021
+2490,PolyHype,Exit Scam,POLYGON,
+2491,Carousel Finance,Exit Scam,POLYGON,30.08.2021
+2492,HermitSwap,Exit Scam,BSC,30.08.2021
+2493,TamagochiSwap,Exit Scam,POLYGON,30.08.2021
+2494,Cardboard Finance,Exit Scam,BSC,30.08.2021
+2495,Polyninja.finance,Exit Scam,POLYGON,
+2496,DragonBallSwap,Exit Scam,BSC,
+2497,Bengal Swap,Exit Scam,BSC,30.08.2021
+2498,KoalaDefi,Exit Scam,POLYGON,30.08.2021
+2499,Cheeseballs Finance,Exit Scam,BSC,
+2500,PoliEx Swap,Exit Scam,BSC,30.08.2021
+2501,CookieSwap Layer 2,Exit Scam,BSC,30.08.2021
+2502,Duck Finance,Exit Scam,POLYGON,30.08.2021
+2503,Area51 DeFi,Exit Scam,BSC,30.08.2021
+2504,Popit Finance,Exit Scam,BSC,30.08.2021
+2505,Blazar Finance,Exit Scam,POLYGON,30.08.2021
+2506,PolyOrca,Exit Scam,POLYGON,30.08.2021
+2507,2Pac Finance,Exit Scam,POLYGON,30.08.2021
+2508,Bapeswap,Exit Scam,POLYGON,
+2509,Saturn Swap XYZ,Exit Scam,BSC,
+2510,Beets Farm,Exit Scam,POLYGON,30.08.2021
+2511,PolyWhat,Exit Scam,POLYGON,27.08.2021
+2512,Pumpkin Swap,Exit Scam,BSC,27.08.2021
+2513,Chopper Finance,Exit Scam,BSC,27.08.2021
+2514,CondoSwap,Exit Scam,BSC,
+2515,Basset Farm,Exit Scam,BSC,27.08.2021
+2516,Oilrig Finance,Exit Scam,BSC,27.08.2021
+2517,PolyFlorida,Exit Scam,POLYGON,
+2518,foodcourt.finance,Exit Scam,BSC,
+2519,Alienswap,Exit Scam,BSC,27.08.2021
+2520,DinoSwap.farm,Exit Scam,BSC,27.08.2021
+2521,Evilswap,Exit Scam,BSC,27.08.2021
+2522,Glockswap,Exit Scam,POLYGON,27.08.2021
+2523,Shadowswap Finance,Exit Scam,FANTOM,27.08.2021
+2524,PUGDOG INU,Exit Scam,BSC,27.08.2021
+2525,Dino Finance,Exit Scam,POLYGON,27.08.2021
+2526,Aura Finance,Exit Scam,FANTOM,27.08.2021
+2527,PolyWeed,Exit Scam,POLYGON,27.08.2021
+2528,Taba Finance,Exit Scam,BSC,
+2529,PolyButterfly,Exit Scam,POLYGON,27.08.2021
+2530,Dooog Finance,Exit Scam,BSC,27.08.2021
+2531,PolyIon,Exit Scam,POLYGON,
+2532,PolyGold,Exit Scam,POLYGON,27.08.2021
+2533,Polyvee Finance,Exit Scam,POLYGON,27.08.2021
+2534,KingDefi.finance,Exit Scam,BSC,27.08.2021
+2535,Astro Yield,Exit Scam,BSC,27.08.2021
+2536,RavenSwap,Exit Scam,BSC,27.08.2021
+2537,SnowBallLand,Exit Scam,BSC,27.08.2021
+2538,Zombies Farm,Exit Scam,BSC,27.08.2021
+2539,Haikyu,Exit Scam,BSC,27.08.2021
+2540,Cobrafinance.org,Exit Scam,BSC,27.08.2021
+2541,MerlinLab,Exit Scam,BSC,
+2542,Fish Token,Exit Scam,ETH,26.08.2021
+2543,Mummy Token,Exit Scam,BSC,26.08.2021
+2544,Missile,Exit Scam,BSC,26.08.2021
+2545,Pumaswap Token,Exit Scam,BSC,26.08.2021
+2546,Zenko,Exit Scam,POLYGON,26.08.2021
+2547,Polyfox.finance,Exit Scam,POLYGON,26.08.2021
+2548,SeaShell.Financ,Exit Scam,BSC,26.08.2021
+2549,DogX Token,Exit Scam,BSC,26.08.2021
+2550,Spiritswap,Exit Scam,FANTOM,26.08.2021
+2551,Axe Token,Exit Scam,BSC,26.08.2021
+2552,WindSwap,Exit Scam,BSC,26.08.2021
+2553,Raccoon Swap,Exit Scam,BSC,26.08.2021
+2554,Uranium U92,Exit Scam,BSC,26.08.2021
+2555,Dragonfly,Exit Scam,BSC,26.08.2021
+2556,Mortal Kombat,Exit Scam,BSC,26.08.2021
+2557,Vine Protocol,Exit Scam,BSC,26.08.2021
+2558,crocofi.org(CROCO),Exit Scam,BSC,26.08.2021
+2559,Elara Finance,Exit Scam,BSC,26.08.2021
+2560,MYSTERYToken,Exit Scam,BSC,26.08.2021
+2561,BACON,Exit Scam,ETH,26.08.2021
+2562,Snakedefi,Exit Scam,BSC,26.08.2021
+2563,Original.finance,Exit Scam,BSC,26.08.2021
+2564,Ozone Finance Token,Exit Scam,BSC,26.08.2021
+2565,Aladdin,Exit Scam,BSC,26.08.2021
+2566,NoaSwap,Exit Scam,BSC,26.08.2021
+2567,SunnyDefi finance,Exit Scam,BSC,26.08.2021
+2568,Antisocial.finance,Exit Scam,BSC,26.08.2021
+2569,RUM COIN,Exit Scam,ETH,26.08.2021
+2570,DunkSwap Token,Exit Scam,BSC,26.08.2021
+2571,SAFU Finance,Exit Scam,BSC,26.08.2021
+2572,Deerdefi,Exit Scam,BSC,26.08.2021
+2573,Geckoswap,Exit Scam,BSC,26.08.2021
+2574,Durianswap,Exit Scam,BSC,
+2575,Delicacydefi,Exit Scam,BSC,25.08.2021
+2576,Rick.finance,Exit Scam,BSC,25.08.2021
+2577,SageSwap Token,Exit Scam,BSC,25.08.2021
+2578,Demeter Chain,Exit Scam,ETH,25.08.2021
+2579,Tripland,Exit Scam,BSC,25.08.2021
+2580,SaturnSwap Token,Exit Scam,BSC,25.08.2021
+2581,Meowswap Token,Exit Scam,BSC,25.08.2021
+2582,BoobsDefi,Exit Scam,BSC,25.08.2021
+2583,Pablo Escobar,Exit Scam,BSC,25.08.2021
+2584,Goldbar.finance,Exit Scam,BSC,
+2585,Kingdomswap,Exit Scam,BSC,25.08.2021
+2586,JI Finance,Abandoned,ETH,
