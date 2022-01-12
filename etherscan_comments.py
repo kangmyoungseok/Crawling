@@ -18,7 +18,7 @@ def make_options():
     chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])   #로그 끄기
 #    chrome_options.add_argument("incognito")   #Secret mode
 #    chrome_options.add_argument('disable-gpu') #GPU하드웨어 가속 끄기 -> 속도가 빨라진다고 함
-    chrome_options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.67 Safari/537.36')
+#    chrome_options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.67 Safari/537.36')
 #    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
     chrome_options.add_argument("--log-level=3") #최소 로그레벨 3(FATAL)로 설정. Critical한거 아니면 로그 안찍힘
 #    chrome_options.add_experimental_option( "prefs",{'profile.managed_default_content_settings.javascript': 2}) #javascript disable
